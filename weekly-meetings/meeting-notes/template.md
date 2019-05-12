@@ -21,6 +21,7 @@ Add stuff as you like, we’ll try to hit everything but we might prioritize bas
 *Check action items from last week and see what's new*
 
 ## Events
+
 ### Past week
 
 *Go over the events for the past week, what happened, what was good, what was bad...*
