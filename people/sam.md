@@ -1,4 +1,4 @@
-<!-- TITLE: Sam -->
+<!-- TITLE: Sam Lanning -->
 
 Responsible for much of the IT / Systems / Infra stuff at queerious, email <sysadmins@queeriouslabs.com> for that stuff.
 
