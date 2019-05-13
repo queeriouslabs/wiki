@@ -1,6 +1,6 @@
-<!-- TITLE: Infrastructure -->
-# Infrastructure
-## TODO:
+<!-- TITLE: Systems & Infrastructure -->
+
+# TODO:
 * Finish wiki install:
   * create systemd unit file
   * create environment file with google auth credentials
