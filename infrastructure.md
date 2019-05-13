@@ -12,6 +12,10 @@
 # Access
 For details of who has access to what, please see the [Access & Responsibilities](/organization/access) page.
 
+# GSuite
+We have a free GSuite account, that we use for email, groups, calendars, drive, google cloud platform etc etc...
+
+We try to provision as much access as possible using groups, primarily the <members@queeriouslabs.com> group, which will be kept up to date with the list of active members. This simplifies the access control greatly.
 # VMs
 The majority of our VM administration is done through [ansible](https://www.ansible.com/), and configuration is stored on GitHub: https://github.com/queeriouslabs/infrastructure
 
