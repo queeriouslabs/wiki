@@ -5,3 +5,4 @@ Feel free to create a small page about yourself if you like, with bio, projects 
 **Personal Pages:**
 
 * [Sam](/people/sam)
+* [beka](/people/beka)
