@@ -6,6 +6,7 @@ If you have a question / concern about anything related to this page, feel free 
   * create systemd unit file
   * create environment file with google auth credentials
   * copy config file to ansible
+  * see if we can get websockets working
 * move secrets to ansible-vault
 * move discourse over to tachikoma (r)
 * change DNS registrar to google domains
