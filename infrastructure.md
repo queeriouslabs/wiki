@@ -1,5 +1,6 @@
 <!-- TITLE: Systems & Infrastructure -->
 
+If you have a question / concern about anything related to this page, feel free to reach out to <sysadmins@queeriouslabs.com>.
 # TODO:
 * Finish wiki install:
   * create systemd unit file
