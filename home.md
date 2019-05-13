@@ -8,11 +8,15 @@ Queerious Labs is an experimental art and technology creative space and communit
 
 To find out more, or to find out how to get involved, visit our [homepage](https://queeriouslabs.com/). You can also [donate](https://queeriouslabs.com/donate) or [become a patron](https://www.patreon.com/QueeriousLabs).
 
+## Code of Conduct
+Queerious Labs has a Code of Conduct that we take very seriously. We want this place to be safe and welcoming to marginalized people of all sorts. This code of conduct can be found [on our homepage](https://queeriouslabs.com/).
 # Core Wiki Pages
 * Organization
   * [Code of Conduct](/coc)
   * Membership (TODO)
   * Modding Process (TODO)
-  * [Access & Responsibilities](/access)
+  * [Access & Responsibilities](/access) - Who has access to what and who is responsible for what
 * [Weekly Meetings](/weekly-meetings)
 * [Systems & Infrastructure](/infrastructure)
+* [Events & Classes](/events) - What events & classes are coming up?
+* [Projects](/projects) - What cool things are people working on?
