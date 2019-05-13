@@ -24,6 +24,8 @@ This document lists the various systems / things that have limited access, and w
 * Everyone with inner door key
 * Austin
 * Nick
+* Brooke
+* Charlie Jane
 
 # IT / Systems / Infrastructure
 Email <sysadmins@queeriouslabs.com> with any questions etc...
