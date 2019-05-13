@@ -26,6 +26,7 @@ This document lists the various systems / things that have limited access, and w
 * Nick
 * Brooke
 * Charlie Jane
+* Lisa
 
 # IT / Systems / Infrastructure
 Email <sysadmins@queeriouslabs.com> with any questions etc...
