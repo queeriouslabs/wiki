@@ -18,4 +18,5 @@ Queerious Labs has a Code of Conduct that we take very seriously. We want this p
 * [Weekly Meetings](/weekly-meetings)
 * [Systems & Infrastructure](/infrastructure)
 * [Events & Classes](/events) - What events & classes are coming up?
+* [People](/people)
 * [Projects](/projects) - What cool things are people working on?
