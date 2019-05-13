@@ -14,7 +14,7 @@ Queerious Labs has a Code of Conduct that we take very seriously. We want this p
 * Organization
   * Membership (TODO)
   * Modding Process (TODO)
-  * [Access & Responsibilities](/org/access) - Who has access to what and who is responsible for what
+  * [Access & Responsibilities](/organization/access) - Who has access to what and who is responsible for what
 * [Weekly Meetings](/weekly-meetings)
 * [Systems & Infrastructure](/infrastructure)
 * [Events & Classes](/events) - What events & classes are coming up?
