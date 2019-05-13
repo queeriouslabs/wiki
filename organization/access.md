@@ -5,19 +5,19 @@
 This document lists the various systems / things that have limited access, and who has access to them. In some cases, where applicable, the main responsible person(s) are noted.
 
 # Bank Account
-* **Trish (responsible)**
-* Beka
+* **[Trish](/people/trish) (responsible)**
+* [Beka](/people/beka)
 
 # Space Access
 ## Inner door key
 * Katherine
 * Lee
-* r
-* Matt
-* Trish
-* Iskandar
-* Beka
-* Sam
+* [r](/people/r)
+* [Matt](/people/matt)
+* [Trish](/people/trish)
+* [Iskandar](/people/iskandar)
+* [Beka](/people/beka)
+* [Sam](/people/sam)
 * Claire
 
 ## Gate key
@@ -27,12 +27,12 @@ This document lists the various systems / things that have limited access, and w
 
 # IT / Systems / Infrastructure
 ## KeePass Password
-* Beka
-* Sam
-* Matt
+* [Beka](/people/beka)
+* [Sam](/people/sam)
+* [Matt](/people/matt)
 
 ## DNS (queeriouslabs.{com,net,org})
-* Beka (private account)
+* [Beka](/people/beka) (private account)
 
 ## Twitter ([@QueeriousLabs](https://twitter.com/queeriouslabs))
 * KeePass Users
@@ -41,20 +41,20 @@ This document lists the various systems / things that have limited access, and w
 * KeePass Users
 
 ## GitHub Org ([github.com/queeriouslabs](https://github.com/queeriouslabs))
-* **Sam (Owner) (Responsible)**
-* Beka (Owner)
-* Matt (Owner)
+* **[Sam](/people/sam) (Owner) (Responsible)**
+* [Beka](/people/beka) (Owner)
+* [Matt](/people/matt) (Owner)
 
 ## Discourse
-* **r (responsible)**
-* Beka
+* **[r](/people/r) (responsible)**
+* [Beka](/people/beka)
 
 ## GSuite
 
 ### Admins
-* **Sam (responsible)**
-* Beka
-* r
+* **[Sam](/people/sam) (responsible)**
+* [Beka](/people/beka)
+* [r](/people/r)
 
 ### Groups
 Most access to various Google / GSuite resources are done through groups.
@@ -64,7 +64,7 @@ Most access to various Google / GSuite resources are done through groups.
 	
 ### [GDrive Shared Folder](https://drive.google.com/drive/folders/1_QCZv-4acFd6S1A7W_KDui0vN905UMyN?usp=sharing)
 
-* Iskandar (owner)
+* [Iskandar](/people/iskandar) (owner)
 * <members@queeriouslabs.com> (edit)
 
 ### Calendar: Queerious Labs Events
@@ -76,12 +76,12 @@ Our VPSs etc… are hosted on Google Cloud Platform under the project: Core Infr
 
 #### Owners ([manage](https://console.cloud.google.com/iam-admin/iam?project=onyx-glider-237821))
 * GSuite Admins
-* **Sam (responsible)**
-* r
+* **[Sam](/people/sam) (responsible)**
+* [r](/people/r)
 
 #### Global SSH to All VMs ([manage](https://console.cloud.google.com/compute/metadata/sshKeys?project=onyx-glider-237821))
-* Sam
-* r
+* [Sam](/people/sam)
+* [r](/people/r)
 
 #### VM: tachikoma (35.212.195.155) ([manage](https://console.cloud.google.com/compute/instancesDetail/zones/us-west1-b/instances/tachikoma?project=onyx-glider-237821))
 * Manage:
