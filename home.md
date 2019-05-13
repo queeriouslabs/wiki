@@ -9,6 +9,10 @@ Queerious Labs is an experimental art and technology creative space and communit
 To find out more, or to find out how to get involved, visit our [homepage](https://queeriouslabs.com/). You can also [donate](https://queeriouslabs.com/donate) or [become a patron](https://www.patreon.com/QueeriousLabs).
 
 # Core Wiki Pages
-* [Access & Responsibilities](/access)
+* Organization
+  * [Code of Conduct](/coc)
+  * Membership (TODO)
+  * Modding Process (TODO)
+  * [Access & Responsibilities](/access)
 * [Weekly Meetings](/weekly-meetings)
-* [Infrastructure](/infrastructure)
+* [Systems & Infrastructure](/infrastructure)
