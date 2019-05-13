@@ -12,7 +12,6 @@ To find out more, or to find out how to get involved, visit our [homepage](https
 Queerious Labs has a Code of Conduct that we take very seriously. We want this place to be safe and welcoming to marginalized people of all sorts. This code of conduct can be found [on our homepage](https://queeriouslabs.com/).
 # Core Wiki Pages
 * Organization
-  * [Code of Conduct](/coc)
   * Membership (TODO)
   * Modding Process (TODO)
   * [Access & Responsibilities](/access) - Who has access to what and who is responsible for what
