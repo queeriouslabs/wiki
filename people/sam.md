@@ -4,6 +4,8 @@ Responsible for much of the IT / Systems / Infra stuff at queerious, email <sysa
 
 ![Lhkqxjsc 400 X 400](/uploads/people/lhkqxjsc-400-x-400.jpg "Lhkqxjsc 400 X 400")
 
+I'm into lighting and music and security and stuff
+
 * Email: <sam@queeriouslabs.com>
 * Twitter: [@samlanning](https://twitter.com/samlanning)
 * Website: https://samlanning.com/
