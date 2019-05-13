@@ -4,12 +4,12 @@
 # Access & Responsibilities
 This document lists the various systems / things that have limited access, and who has access to them. In some cases, where applicable, the main responsible person(s) are noted.
 
-## Bank Account
+# Bank Account
 * **Trish (responsible)**
 * Beka
 
-## Space Access
-### Inner door key
+# Space Access
+## Inner door key
 * Katherine
 * Lee
 * r
@@ -20,12 +20,12 @@ This document lists the various systems / things that have limited access, and w
 * Sam
 * Claire
 
-### Gate key
+## Gate key
 * Everyone with inner door key
 * Austin
 * Nick
 
-## IT / Systems / Infrastructure
+# IT / Systems / Infrastructure
 ### KeePass Password
 * Beka
 * Sam
