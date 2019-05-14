@@ -21,3 +21,6 @@ unalias unexpand unrar useradd which whereis wget zip . !!
 * wildcards
 * variables
 * sub-evaluation
+* pipes
+* (re)direction
+* alternation
