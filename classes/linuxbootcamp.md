@@ -10,7 +10,7 @@ This class is for everyone! But it's primarily aimed at programmers who use Linu
 alias awk basename bg case cat cd chmod chown chroot clear comm cp cron/crontab 
 curl diff dig? echo egrep env exit export expand fgrep file find ftp gawk
 getopts grep gzip head history hostname ifconfig join kill/killall less link/ln
-locate logout look make man mkdir mkfile? more most mount mv nc nslookup? open
+locate logout look make man mkdir more most mount mv nc nslookup? open
 passwd paste ping popd pritf ps pushd pwd rar read reboot rename rm rmdir rsync
 screen scp sdiff sed select set shutdown sleep slocate sort source ssh stat
 strace? su sudo tail tar tee test? touch traceroute? tr tsort tty? umount
