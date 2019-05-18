@@ -15,3 +15,6 @@ This is a 4 part class occurring on the following Sundays:
 - 2 June 2019, 5pm-8pm
 - 9 June 2019, 5pm-8pm
 - 16 June 2019, 5pm-8pm
+
+# Discourse Category
+If you want to chat about the class, check out the Discourse category: https://discourse.queeriouslabs.com/c/classes/haskell-for-beginners
