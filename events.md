@@ -1,6 +1,6 @@
 <!-- TITLE: Events -->
 
-This page should be used to list classes and events happening at Queerious Labs. It is *_NOT_* intended as an event calendar, but rather as a directory for finding wiki pages about events. Don't rely on this information for scheduling, please refer to [the Queerious Labs Meetup group](https://www.meetup.com/QueeriousLabs/) for that.
+This page should be used to list classes and events happening at Queerious Labs. It is **_NOT_** intended as an event calendar, but rather as a directory for finding wiki pages about events. Don't rely on this information for scheduling, please refer to [the Queerious Labs Meetup group](https://www.meetup.com/QueeriousLabs/) for that.
 
 If you add an event to this page, please make sure that you include not just the name of the event, but also when it's happening (both date and time information). If the class is ongoing, it should be put in the Current Events section. If it ever stops happening, it should/will be moved to the Past Events section.
 
@@ -11,9 +11,9 @@ Please use the following template for your events, to ensure that we can properl
 ```markdown
 ## $EVENT_NAME
 
-*Date and Time:* $EVENT_DATE_AND_TIME
+**Date and Time:** $EVENT_DATE_AND_TIME
 
-*Description:* $EVENT_DESCRIPTION
+**Description:** $EVENT_DESCRIPTION
 ```
 
 # Current Events
