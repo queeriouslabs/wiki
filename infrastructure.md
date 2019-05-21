@@ -28,7 +28,7 @@ The one exception to this is the VM that hosts [discourse.queeriouslabs.com](htt
 ## Tachikoma (35.212.195.155)
 > [Manage](https://console.cloud.google.com/compute/instancesDetail/zones/us-west1-b/instances/tachikoma?project=onyx-glider-237821)
 
-Currently a g1-small Google Compute Engine VM. All services running on this VM should be set up using ansible, and use systemd unit files to start on boot.
+Currently a n1-standard Google Compute Engine VM. All services running on this VM should be set up using ansible, and use systemd unit files to start on boot.
 
 # DNS
 Currently managed by Beka, this should be transferred over to google domains.
