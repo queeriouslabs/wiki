@@ -19,6 +19,7 @@ This document lists the various systems / things that have limited access, and w
 * [Beka](/people/beka)
 * [Sam](/people/sam)
 * Claire
+* Ryan
 
 ## Gate key
 * Everyone with inner door key
