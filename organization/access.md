@@ -24,10 +24,14 @@ This document lists the various systems / things that have limited access, and w
 ## Gate key
 * Everyone with inner door key
 * Austin
-* Nick
+* Nick (Atmos)
 * Brooke
 * Charlie Jane
 * Lisa
+* Kelly
+* Tiffany
+* Nick P (Noisebridge)
+* Step
 
 # IT / Systems / Infrastructure
 Email <sysadmins@queeriouslabs.com> with any questions etc...
