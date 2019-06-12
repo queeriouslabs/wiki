@@ -20,6 +20,7 @@ This document lists the various systems / things that have limited access, and w
 * [Sam](/people/sam)
 * Claire
 * Ryan
+* Lisa
 
 ## Gate key
 * Everyone with inner door key
@@ -27,7 +28,6 @@ This document lists the various systems / things that have limited access, and w
 * Nick (Atmos)
 * Brooke
 * Charlie Jane
-* Lisa
 * Kelly
 * Tiffany
 * Nick P (Noisebridge)
