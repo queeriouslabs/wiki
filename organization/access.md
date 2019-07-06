@@ -21,6 +21,7 @@ This document lists the various systems / things that have limited access, and w
 * Claire
 * Ryan
 * Lisa
+* Juan
 
 ## Gate key
 * Everyone with inner door key
@@ -32,6 +33,7 @@ This document lists the various systems / things that have limited access, and w
 * Tiffany
 * Nick P (Noisebridge)
 * Step
+* Jonas
 
 # IT / Systems / Infrastructure
 Email <sysadmins@queeriouslabs.com> with any questions etc...
