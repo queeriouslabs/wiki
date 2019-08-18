@@ -1,4 +1,4 @@
-<!-- TITLE: Fp Reading Group -->
+<!-- TITLE: FP Reading Group -->
 <!-- SUBTITLE: A functional programming reading group. -->
 
 # Functional Programming Reading Group
