@@ -23,6 +23,8 @@ This document lists the various systems / things that have limited access, and w
 * Lisa
 * Juan
 * Bernice
+* Cole
+* Elias
 
 ## Gate key
 * Everyone with inner door key
