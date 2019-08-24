@@ -20,3 +20,4 @@ Queerious Labs has a Code of Conduct that we take very seriously. We want this p
 * [Events & Classes](/events) - What events & classes are coming up?
 * [People](/people)
 * [Projects](/projects) - What cool things are people working on?
+* [Tools](/tools) - What tools do we have and  what is the status of them?
