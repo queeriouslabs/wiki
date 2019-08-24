@@ -14,3 +14,12 @@ The aim of Labrys is to make it easy for people to have control of their online 
  [beka](/people/beka)
 ### Where's the repo?
 https://github.com/psygnisfive/labrys
+
+## Serial Experiments LAN
+
+### What is it?
+A simple toolkit for UDP-based LAN service discovery, intended to make it super easy to drop a computer on a LAN and advertise its existence for people to use, without a lot of infrastructural overhead or effort.
+### Who's working on it?
+[beka](/people/beka)
+### Where's the repo?
+https://github.com/QueeriousLabs/SerialExperimentsLAN
