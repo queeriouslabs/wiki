@@ -2,7 +2,13 @@
 <!-- SUBTITLE: The process by which we modify how the space operates. -->
 
 # Modding
-This page describes the Modding process, which is how we modify how Queerious Labs operators. This process is used when there is community-wide impact and when it's hard to undo the change. If the effect of a change is relatively small, or isolated to a few people, or is very easy to undo, probably local consensus among the affected people suffices, and you should operate in Immediate Mode instead.
+This page describes the Modding process, which is how we modify how Queerious Labs operates. This process is used when there is community-wide impact and when it's hard to undo the change. If the effect of a change is relatively small, or isolated to a few people, or is very easy to undo, probably local consensus among the affected people suffices, and you should operate in Immediate Mode instead.
+
+## Important Links
+[Mods](/organization/mods): Track the state of mods
+
+## Change Tracking
+The progress of a mod is tracked through various states on the [Mods](/organization/mods) page. However, the total history of the mods is kind of hard to use, so the current state of all the mods is kept up to date on the Mods page, in a separate section called Active Mods.
 
 ## The Process
 1. After identifying a way that Queerious Labs could be improved, the improvement is brought to a meeting as a new mod. They can either be published on the Mods page or brought to the meeting directly. Mods should be goal's we'd like to achieve, ways that we can better achieve and embody our values as a space and a community, rather than particular changes to achieve those goals. For instance, "Queerious Labs' tools are operational and accessible." is a goal to achieve, but not a means to achieve that goal, and is thus a GOOD candidate for a mod. On the other hand, "Anyone who breaks a tool must repair the tool." is a means to achieve that goal, and is thus a BAD  candidate for a mod.
