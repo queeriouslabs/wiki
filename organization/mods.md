@@ -17,11 +17,11 @@ Date Most Recently Discussed: DATE_MOST_RECENTLY_DISCUSSED
 
 The following are proposals for this mod, in ranked order.
 
-* PROPOSAL_1 (Avg. rating: AVG_RATING_1; Accepted)
-* PROPOSAL_2 (Avg. rating: AVG_RATING_2; Accepted)
-* PROPOSAL_3 (Avg. rating: AVG_RATING_3; Accepted)
-* PROPOSAL_4 (Avg. rating: AVG_RATING_4; Blocked)
-* PROPOSAL_5 (Avg. rating: AVG_RATING_5; Blocked)
+* PROPOSAL_1 (Proposal Date: DATE_1; Avg. rating: AVG_RATING_1; Accepted)
+* PROPOSAL_2 (Proposal Date: DATE_2; Avg. rating: AVG_RATING_2; Accepted)
+* PROPOSAL_3 (Proposal Date: DATE_3; Avg. rating: AVG_RATING_3; Accepted)
+* PROPOSAL_4 (Proposal Date: DATE_4; Avg. rating: AVG_RATING_4; Blocked)
+* PROPOSAL_5 (Proposal Date: DATE_5; Avg. rating: AVG_RATING_5; Blocked)
 
 ## Awaiting State
 Mods in this state are awaiting discussion at their first meeting.
