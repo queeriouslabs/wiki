@@ -26,6 +26,18 @@ The following are proposals for this mod, in ranked order.
 ## Awaiting State
 Mods in this state are awaiting discussion at their first meeting.
 
+### Useful Tools
+
+Description: Queerious Labs' tools are in a usable, well-maintained state, and are accessible to people who come to the space.
+Date First Discussed: 2019-09-21
+Date Most Recently Discussed: 2019-09-21
+
+#### Proposals
+
+The following are proposals for this mod, in ranked order.
+
+* No proposals yet.
+
 ## Rating State
 Mods in this state are waiting for their proposals to be rated by members of the community.
 
