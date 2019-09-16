@@ -4,6 +4,25 @@
 # Mods
 This page lists all of the mods that have been done to Queerious Labs. This page tracks the content and progress of those mods.
 
+## Mod Template
+Below is the template that you should use for creating a mod entry.
+
+### MOD_NAME
+
+Description: MOD_DESCRIPTION
+Date First Discussed: DATE_FIRST_DISCUSSED
+Date Most Recently Discussed: DATE_MOST_RECENTLY_DISCUSSED
+
+#### Proposals
+
+The following are proposals for this mod:
+
+* PROPOSAL_1 (Avg. rating: AVG_RATING; Accepted)
+* PROPOSAL_1 (Avg. rating: AVG_RATING; Accepted)
+* PROPOSAL_1 (Avg. rating: AVG_RATING; Accepted)
+* PROPOSAL_1 (Avg. rating: AVG_RATING; Blocked)
+* PROPOSAL_1 (Avg. rating: AVG_RATING; Blocked)
+
 ## Rating State
 Mods in this state are waiting for their proposals to be rated by members of the community.
 
