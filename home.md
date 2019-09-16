@@ -13,7 +13,7 @@ Queerious Labs has a Code of Conduct that we take very seriously. We want this p
 # Core Wiki Pages
 * Organization
   * Membership (TODO)
-  * [Modding Process](/organization/modding-process)
+  * [Modding Process](/organization/modding)
   * [Mods](/organization/mods)
   * [Access & Responsibilities](/organization/access) - Who has access to what and who is responsible for what
 * [Weekly Meetings](/weekly-meetings)
