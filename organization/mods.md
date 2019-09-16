@@ -23,6 +23,9 @@ The following are proposals for this mod, in ranked order.
 * PROPOSAL_4 (Avg. rating: AVG_RATING_4; Blocked)
 * PROPOSAL_5 (Avg. rating: AVG_RATING_5; Blocked)
 
+## Awaiting State
+Mods in this state are awaiting discussion at their first meeting.
+
 ## Rating State
 Mods in this state are waiting for their proposals to be rated by members of the community.
 
