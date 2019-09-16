@@ -23,6 +23,10 @@ The following are proposals for this mod, in ranked order.
 * PROPOSAL_4 (Proposal Date: DATE_4; Avg. rating: AVG_RATING_4; Blocked)
 * PROPOSAL_5 (Proposal Date: DATE_5; Avg. rating: AVG_RATING_5; Blocked)
 
+# Active Mods
+There are currently no active mods. All known mods are in progress awaiting discussion and ranking.
+# Mod Progress
+
 ## Awaiting State
 Mods in this state are awaiting discussion at their first meeting.
 
