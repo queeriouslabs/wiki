@@ -38,15 +38,34 @@ Date Most Recently Discussed: 2019-09-21
 
 #### Proposals
 
-The following are proposals for this mod, in ranked order.
+The following are proposals for this mod, not yet ranked.
 
-* No proposals yet.
+* If it breaks, leave a note about the problem.
+* If it breaks, tell someone about the problem.
+* If it breaks, post about it to discourse.
+* If it breaks, post to the mailing list about it.
+* Talk together about "important" equipment to establish norms around it
+* Avoid short term hacks to fix things / prefer "correct"/"standard" repairs
+* Have a maintenance schedule
+* Require explicit permission for any tool use
+* Require explicit permission for certain tool use
+* Require explicit permission for tool hacking/fixing
+* Require SBU training before tool use
+* Require repair training before tool repair/hacking
+* Hold scheduled supervised use times where the supervisor is responsible for the sticking to the process
+* Hold scheduled supervised use times where the supervisor is *only* responsible for the sticking to the process
+* Soviets/User Groups which define tool-specific policies, etc. vs space-wide policies, and coordinate around needs, etc.
+* Have tool-specific constraints on usage
+* Online "form" or page w/ info and agreements for use
+* Handouts w/ policy info
+* Tool signout system
+* Do nothing
 
 ### Mod 1: Access Control (Version 1)
 
 Description: Queerious Labs can be secured when not in use, and users of the space can get into the space to make use of it with minimal bureaucratic overhead.
-Date First Discussed: 2019-09-21
-Date Most Recently Discussed: 2019-09-21
+Date First Discussed: 2019-09-28
+Date Most Recently Discussed: 2019-09-28
 
 #### Proposals
 
