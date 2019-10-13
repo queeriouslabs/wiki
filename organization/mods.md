@@ -51,7 +51,7 @@ Mods in this state are waiting for their proposals to be rated by members of the
 
 Description: Queerious Labs's tools are usable, well-maintained, and accessible to people who need to use them.
 Date First Discussed: 2019-09-21
-Date Most Recently Discussed: 2019-09-21
+Date Most Recently Discussed: 2019-10-12
 
 #### Details
 
