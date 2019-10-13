@@ -33,8 +33,8 @@ Mods in this state are awaiting discussion at their first meeting.
 ### Mod 1: Access Control (Version 1)
 
 Description: Queerious Labs can be secured when not in use, and users of the space can get into the space to make use of it with minimal bureaucratic overhead.
-Date First Discussed: 2019-09-28
-Date Most Recently Discussed: 2019-09-28
+Date First Discussed: N/A
+Date Most Recently Discussed: N/A
 
 #### Proposals
 
