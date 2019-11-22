@@ -28,7 +28,9 @@ This document lists the various systems / things that have limited access, and w
 * Kathryn
 * Vicky Dee
 * Kate
-* Cat
+* Kat
+* Joe
+* Banasidhe
 
 ## Gate key
 * Everyone with inner door key
