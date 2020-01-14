@@ -1,5 +1,5 @@
-<!-- TITLE: Mpcnc -->
-<!-- SUBTITLE: A quick summary of Mpcnc -->
+<!-- TITLE: Mostly Printed CNC -->
+<!-- SUBTITLE: Arguably the best CNC router/mill you can make out of a pile of skateboard bearings and electrical conduit -->
 
 # Mostly Printed CNC (MPCNC)
 
