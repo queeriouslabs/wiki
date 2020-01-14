@@ -14,3 +14,8 @@ Fully functional.
 # Sewing Machines
 ### General Status as of 2019-08-23
 As far as we know, one of the three machines is functional. The other two have damage that require work to both diagnose and fix.
+
+# CNC Machines
+## MPCNC
+### General Status as of 2020-01-14
+Works! more details [here](/tools/mpcnc).
