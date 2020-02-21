@@ -5,7 +5,7 @@
 ## Colors
 Aside from black, the following colors form a broad aesthetic for the site and stickers.
 
-<span style="color: #ff69b4; background-color: black;">#ff69b4</span>
+<span style="color: #ff69b4; background-color: black; font-weight: 900;">&nbsp;#ff69b4&nbsp;</span>
 
 #ffb469
 #69ffb4
