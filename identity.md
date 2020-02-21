@@ -3,7 +3,7 @@
 
 # Website Style Info
 ## Colors
-Aside from black, the following colors form a broad aesthetic for the site and stickers.
+Aside from black and white, the following colors form a broad aesthetic for the site and stickers. The first two are the most used, as the primary and secondary color on the website and stickers. The other four are consistent with the color scheme, but haven't been used yet.
 
 <span style="color: #ff69b4; background-color: black; font-weight: 900;">&nbsp;#ff69b4&nbsp;</span>
 <span style="color: #69ffb4; background-color: black; font-weight: 900;">&nbsp;#69ffb4&nbsp;</span>
@@ -13,6 +13,7 @@ Aside from black, the following colors form a broad aesthetic for the site and s
 <span style="color: #b469ff; background-color: black; font-weight: 900;">&nbsp;#b469ff&nbsp;</span>
 
 ## Fonts
+Generally, fixed width fonts, with <a href="https://fonts.google.com/specimen/VT323">VT323</a> as the accent/title font, as on the website.
 # Logos
 ## Pixelated Q
 This is the logo used on the stickers and the sign.
