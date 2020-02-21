@@ -18,4 +18,4 @@ Generally, fixed width fonts, with <a href="https://fonts.google.com/specimen/VT
 ## Pixelated Q
 This is the logo used on the stickers and the sign.
 
-<img src="/uploads/pixelated-logo.png"  alt="Pixelated Logo" />
+<img src="/uploads/pixelated-logo.png" width="200px" alt="Pixelated Logo" />
