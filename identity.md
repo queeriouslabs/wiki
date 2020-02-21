@@ -21,3 +21,9 @@ This is the logo used on the stickers and the sign.
 ### Large PNG with "QueeriousLabs.com"
 
 <img src="/uploads/pixelated-logo.png" width="200px" alt="Pixelated Logo" />
+
+### Source SVG
+
+This SVG requires the VT323 font listed above.
+
+[Pixelated Logo With Name](/uploads/pixelated-logo-with-name.svg "Pixelated Logo With Name")
