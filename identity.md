@@ -18,4 +18,6 @@ Generally, fixed width fonts, with <a href="https://fonts.google.com/specimen/VT
 ## Pixelated Q
 This is the logo used on the stickers and the sign.
 
+### Large PNG with "QueeriousLabs.com"
+
 <img src="/uploads/pixelated-logo.png" width="200px" alt="Pixelated Logo" />
