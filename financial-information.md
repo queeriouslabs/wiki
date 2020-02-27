@@ -21,7 +21,7 @@ Our EIN is 83-3526414.
 ## Expenses
 ### 2019
 * Total: $19,615.94
-	* Rent: $17,500
+	* Rent: $17,500.00
 	* Internet: $587.50
 	* Utilities: $1067.66
 		* PG&E: $687.92
