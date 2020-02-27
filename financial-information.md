@@ -18,7 +18,6 @@ Our EIN is 83-3526414.
 		* Patreon: $6,864.42
 		* Paypal: $1,734.79
 		* Other: $14,780.00
-		* 
 ### Expenses
 * Total: $28,449.94
 	* Initial Lease Payment (directly paid by founders): $8,834.00
