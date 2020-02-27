@@ -15,7 +15,7 @@ Our EIN is 83-3526414.
 * Total: $32,213.21
 	* Initial Lease Payment (directly paid by founders): $8,834.00
 	* Donations to Bank Account: $23,379.21
-		* Patron: $6,864.42
+		* Patreon: $6,864.42
 		* Paypal: $1,734.79
 		* Other: $14,780.00
 ## Expenses
