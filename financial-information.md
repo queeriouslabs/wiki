@@ -20,7 +20,8 @@ Our EIN is 83-3526414.
 		* Other: $14,780.00
 ## Expenses
 ### 2019
-* Total: $19,615.94
+* Total: $28,449.94
+	* Initial Lease Payment (directly paid by founders): $8,834.00
 	* Rent: $17,500.00
 	* Internet: $587.50
 	* Utilities: $1067.66
