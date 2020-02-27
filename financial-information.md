@@ -10,7 +10,7 @@ Queerious Labs is a 501(c)3 non-profit.
 
 Our EIN is 83-3526414.
 
-## 2019
+## 2019 Financial Flows
 ### Income
 * Total: $32,213.21
 	* Initial Lease Payment (directly paid by founders): $8,834.00
