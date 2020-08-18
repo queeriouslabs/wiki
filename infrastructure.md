@@ -20,15 +20,34 @@ We have a free GSuite account, that we use for email, groups, calendars, drive, 
 We try to provision as much access as possible using groups, primarily the <members@queeriouslabs.com> group, which will be kept up to date with the list of active members. This simplifies the access control greatly.
 
 Anyone that is given admin access **must have 2FA enabled on their account**.
-# VMs
+
+# Google Cloud Projects
+The GCloud infrastructure is organized into different projects to keep things cleanly separated.
+
+## Core Infrastructure
+
+The Core Infratructure project is for the most essential web infra for Queerious Labs. Personal projects or less important services MUST NOT run under this project.
+
+### VMs
 The majority of our VM administration is done through [ansible](https://www.ansible.com/), and configuration is stored on GitHub: https://github.com/queeriouslabs/infrastructure
 
 The one exception to this is the VM that hosts [discourse.queeriouslabs.com](https://discourse.queeriouslabs.com/login), which is currently on Beka's personal VM, and needs to be moved over.
 
-## Tachikoma (35.212.195.155)
+#### Tachikoma (35.212.195.155)
 > [Manage](https://console.cloud.google.com/compute/instancesDetail/zones/us-west1-b/instances/tachikoma?project=onyx-glider-237821)
 
 Currently a n1-standard Google Compute Engine VM. All services running on this VM should be set up using ansible, and use systemd unit files to start on boot.
+
+## Periphery Infrastructure
+
+The Periphery Infrastructure project is for unessential web infra for Queerious Labs. Personal projects and less important services MAY run under this project.
+
+### VMs
+
+#### Gynoid (35.238.38.104)
+> [Manage](https://console.cloud.google.com/compute/instancesDetail/zones/us-central1-b/instances/gynoid?project=periphery-infrastructure)
+
+Current an f1-micro Google Compute Engine VM. All services running on this VMV should be set up using ansible, and use systemd unit files to start on boot.
 
 # DNS
 Currently managed by Beka, this should be transferred over to google domains.
