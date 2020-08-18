@@ -49,6 +49,10 @@ The Periphery Infrastructure project is for unessential web infra for Queerious 
 
 Current an f1-micro Google Compute Engine VM. All services running on this VMV should be set up using ansible, and use systemd unit files to start on boot.
 
+# Domain Names
+We have 3 domain names -- queeriouslabs.{com,net,org}.
+
+The .com TLD MUST be used exclusively for Core Infrastructure services, while Periphery Infrastructure services MAY be run on .net and .org. The reason for this is that, since Periphery Infrastructure is intended to be more open and experimental, the we open ourselves to a greater risk of cross site scripting, etc. and by using a different domain, cross-domain vulnerabilities won't be as easy to exploit as within-domain vulns.
 # DNS
 Currently managed by Beka, this should be transferred over to google domains.
 # Website (queeriouslabs.com)
