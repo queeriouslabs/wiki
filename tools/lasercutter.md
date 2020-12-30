@@ -16,5 +16,8 @@ These materials are ok to cut in the laser cutter. If your material is NOT liste
 
 ### Acrylic
 
-- 1/4in = 8mm/s @ 60W
-- 1/8in = 20mm/s @ 60W
+- Engraving: 100-400mm/s @ 5-20W
+- Edge Lit Sign Engraving: 400mm/s @ 20W is usually fine
+- Cutting
+  - 1/4in = 8mm/s @ 60W
+  - 1/8in = 20mm/s @ 60W
