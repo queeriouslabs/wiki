@@ -5,8 +5,8 @@
 This document lists the various systems / things that have limited access, and who has access to them. In some cases, where applicable, the main responsible person(s) are noted.
 
 # Bank Account
-* **[Trish](/people/trish) (responsible)**
 * [Beka](/people/beka)
+* Iskandar (responsible)
 
 # Space Access
 ## Inner door key
@@ -50,6 +50,7 @@ Email <sysadmins@queeriouslabs.com> with any questions etc...
 * [Beka](/people/beka)
 * [Sam](/people/sam)
 * [Matt](/people/matt)
+* [...]
 
 ## DNS (queeriouslabs.{com,net,org})
 * [Beka](/people/beka) (private account)
@@ -64,10 +65,15 @@ Email <sysadmins@queeriouslabs.com> with any questions etc...
 * **[Sam](/people/sam) (Owner) (Responsible)**
 * [Beka](/people/beka) (Owner)
 * [Matt](/people/matt) (Owner)
+* [...]
 
 ## Discourse
 * **[r](/people/r) (responsible)**
 * [Beka](/people/beka)
+
+## Discord
+* Beka (responsible)
+* [...]
 
 ## GSuite
 
