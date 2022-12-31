@@ -75,11 +75,9 @@ NOTE: Much of corporate donation matching comes through Paypal.
   * Utilities: $984.61
     * PG&E: $984.61
   * IRS Fees: $381.10
-
-## Miscellaneous
-
-- Weird "analysis charge" credit (income?): $25.56
-- Weird "analysis charge" fee (expense?): $25.56
+* Miscellaneous
+  * Weird "analysis charge" credit (income?): $25.56
+  * Weird "analysis charge" fee (expense?): $25.56
 
 ## Bank Account
 We have a bank account at First Republic. Contact `treasurer@` if account info is needed.
