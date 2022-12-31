@@ -18,15 +18,15 @@ NOTE: Much of corporate donation matching comes through Paypal.
 
 ### 2019 Financial Flows
 
-* Income: $32,213.21
-	  * Initial Lease Payment (directly paid by founders): $8,834.00
-	  * Donations to Bank Account: $23,379.21
-		  * Patreon: $6,864.42
-  		* Paypal: $1,734.79
-	  	* Other: $14,780.00
-* Expenses: $28,449.94
-	  * Initial Lease Payment (directly paid by founders): $8,834.00
-	  * Rent: $17,500.00
+* Income: $32213.21
+	  * Initial Lease Payment (directly paid by founders): $8834.00
+	  * Donations to Bank Account: $23379.21
+		  * Patreon: $6864.42
+  		* Paypal: $1734.79
+	  	* Other: $14780.00
+* Expenses: $28449.94
+	  * Initial Lease Payment (directly paid by founders): $8834.00
+	  * Rent: $17500.00
 	  * Internet: $587.50
   	* Utilities: $1067.66
 	  	* PG&E: $687.92
