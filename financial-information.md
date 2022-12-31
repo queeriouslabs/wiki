@@ -60,6 +60,27 @@ NOTE: Much of corporate donation matching comes through Paypal.
   * Misc: $25
     * CA Corporate Compliance: $25
 
+### 2021 Financial Flows
+
+* Income: $41735.95
+  * Patreon: $9285.87
+  * Paypal: $21630.08
+  * Anonymous Donor: $9000
+  * Bank Deposits: $1820
+* Expenses: $33159
+  * Rent: $30000
+  * Insurance: $550
+  * Internet (Monkeybrains): $900 
+  * Web Infrastructure: $343.29
+  * Utilities: $984.61
+    * PG&E: $984.61
+  * IRS Fees: $381.10
+
+## Miscellaneous
+
+- Weird "analysis charge" credit (income?): $25.56
+- Weird "analysis charge" fee (expense?): $25.56
+
 ## Bank Account
 We have a bank account at First Republic. Contact `treasurer@` if account info is needed.
 
