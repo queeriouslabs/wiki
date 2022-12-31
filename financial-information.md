@@ -35,7 +35,8 @@ NOTE: Much of corporate donation matching comes through Paypal.
     * Projector: $325.49 (Amazon Order #112-8494996-3420257)
     * Dish Rack: $69.99 (Amazon Order #113-8774783-3407412)
     * Wire Shelving: $65.09 (Amazon Order #113-7169853-8334657)
-  * Misc.: $0.21 (Paypal fee)
+  * Misc.: $0.21
+    * Paypal fee: $0.21
 
 ### 2020 Financial Flows
 
