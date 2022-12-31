@@ -16,43 +16,33 @@ These document the various sources of income and the the expenses that we have.
 
 ### 2019 Financial Flows
 
-#### Income
-
-* Total: $32,213.21
-	* Initial Lease Payment (directly paid by founders): $8,834.00
-	* Donations to Bank Account: $23,379.21
-		* Patreon: $6,864.42
-		* Paypal: $1,734.79
-		* Other: $14,780.00
-
-#### Expenses
-
-* Total: $28,449.94
-	* Initial Lease Payment (directly paid by founders): $8,834.00
-	* Rent: $17,500.00
-	* Internet: $587.50
-	* Utilities: $1067.66
-		* PG&E: $687.92
-		* Trash: $379.74
-	* Shopping: $460.57
-		* Projector: $325.49 (Amazon Order #112-8494996-3420257)
-		* Dish Rack: $69.99 (Amazon Order #113-8774783-3407412)
-		* Wire Shelving: $65.09 (Amazon Order #113-7169853-8334657)
-	* Misc.: $0.21 (Paypal fee)
+* Income: $32,213.21
+	  * Initial Lease Payment (directly paid by founders): $8,834.00
+	  * Donations to Bank Account: $23,379.21
+		  * Patreon: $6,864.42
+  		* Paypal: $1,734.79
+	  	* Other: $14,780.00
+* Expenses: $28,449.94
+	  * Initial Lease Payment (directly paid by founders): $8,834.00
+	  * Rent: $17,500.00
+	  * Internet: $587.50
+  	* Utilities: $1067.66
+	  	* PG&E: $687.92
+		  * Trash: $379.74
+	  * Shopping: $460.57
+		  * Projector: $325.49 (Amazon Order #112-8494996-3420257)
+		  * Dish Rack: $69.99 (Amazon Order #113-8774783-3407412)
+	  	* Wire Shelving: $65.09 (Amazon Order #113-7169853-8334657)
+	  * Misc.: $0.21 (Paypal fee)
 
 ### 2020 Financial Flows
 
-#### Income
-
-* Total: $41841.65
+* Income: $41841.65
   * Patreon: $11659.77
   * Paypal: $7456.88
   * Anonymous Donor: $9000
   * Branch Deposit: $13725
-
-#### Expenses
-
-* Total: 
+* Expenses: $36789.43
   * Rent: $30000
   * Internet (Monkeybrains): $750
   * Web Infrastructure: $86.59
