@@ -44,7 +44,7 @@ NOTE: Much of corporate donation matching comes through Paypal.
   * Paypal: $7456.88
   * Anonymous Donor: $9000
   * Branch Deposit: $13725
-* Expenses: $36789.43
+* Expenses: $36814.43
   * Rent: $30000
   * Internet (Monkeybrains): $750
   * Web Infrastructure: $86.59
