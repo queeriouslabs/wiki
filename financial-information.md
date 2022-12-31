@@ -32,6 +32,31 @@ Our EIN is 83-3526414.
 		* Wire Shelving: $65.09 (Amazon Order #113-7169853-8334657)
 	* Misc.: $0.21 (Paypal fee)
 
+## 2020 Financial FLows
+
+### Income
+* Total: $41841.65
+  * Patreon: $11659.77
+  * Paypal: $7456.88
+  * Anonymous Donor: $9000
+  * Branch Deposit: $13725
+### Expenses
+* Total: 
+  * Rent: $30000
+  * Internet (Monkeybrains): $750
+  * Web Infrastructure: $86.59
+  * Utilities: $852.31
+    * PG&E: $852.31
+  * Purchases: $5100.53
+    * Laser Cutter: $3368.19
+    * Mouse Traps: $39.03
+    * Circuit Scribe Pens: $54.24
+    * Copper Tape: $11.59
+    * Storage Cabinet: $1627.48
+    * SD Card Reader: $32.52
+  * Misc: $25
+    * CA Corporate Compliance: $25
+
 ## Bank Account
 We have a bank account at First Republic. Contact `treasurer@` if account info is needed.
 
