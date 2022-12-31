@@ -14,6 +14,8 @@ Our EIN is 83-3526414.
 
 These document the various sources of income and the the expenses that we have.
 
+NOTE: Much of corporate donation matching comes through Paypal.
+
 ### 2019 Financial Flows
 
 * Income: $32,213.21
