@@ -10,9 +10,13 @@ Queerious Labs is a 501(c)3 non-profit.
 
 Our EIN is 83-3526414.
 
-## 2019 Financial Flows
+## Financial Flows
 
-### Income
+These document the various sources of income and the the expenses that we have.
+
+### 2019 Financial Flows
+
+#### Income
 
 * Total: $32,213.21
 	* Initial Lease Payment (directly paid by founders): $8,834.00
@@ -21,7 +25,7 @@ Our EIN is 83-3526414.
 		* Paypal: $1,734.79
 		* Other: $14,780.00
 
-### Expenses
+#### Expenses
 
 * Total: $28,449.94
 	* Initial Lease Payment (directly paid by founders): $8,834.00
@@ -36,9 +40,9 @@ Our EIN is 83-3526414.
 		* Wire Shelving: $65.09 (Amazon Order #113-7169853-8334657)
 	* Misc.: $0.21 (Paypal fee)
 
-## 2020 Financial Flows
+### 2020 Financial Flows
 
-### Income
+#### Income
 
 * Total: $41841.65
   * Patreon: $11659.77
@@ -46,7 +50,7 @@ Our EIN is 83-3526414.
   * Anonymous Donor: $9000
   * Branch Deposit: $13725
 
-### Expenses
+#### Expenses
 
 * Total: 
   * Rent: $30000
