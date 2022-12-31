@@ -21,6 +21,10 @@ Printer is turning on but has not been analyzed further.
 ### Status as of 2022-12-31
 Printer is turning on.
 
+## Anycubic Kossel Delta Printer
+### Status as of 2022-12-31
+Unknown
+
 # Book Scanners
 ## Czur Book Scanner
 ### Status as of 2021-05-29
