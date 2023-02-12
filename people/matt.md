@@ -8,3 +8,5 @@ test3 <-- test
 ```
 
 IF that's not a diagram, there's no plantuml support currentely in out wiki.js
+
+TESSSSTTTTT
