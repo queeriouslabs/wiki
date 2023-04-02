@@ -22,3 +22,4 @@ These materials are ok to cut in the laser cutter. If your material is NOT liste
 - Cutting
   - 1/4in = 8mm/s @ 60W
   - 1/8in = 20mm/s @ 60W
+  - 1/32in = 80mm/s @ 60W
