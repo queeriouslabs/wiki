@@ -28,7 +28,7 @@ Unknown
 
 # Book Scanners
 ## Czur Book Scanner
-### Status as of 2021-05-29
+### Status as of 2023-04-29
 Fully functional.
 
 # Sewing Machines
@@ -41,5 +41,5 @@ As far as we know, one of the three machines is functional. The other two have d
 Works! more details [here](/tools/mpcnc).
 
 ## Laser Cutter
-### General Status as of 2021-05-29
+### General Status as of 2023-04-29
 Works! more details [here](/tools/lasercutter)
