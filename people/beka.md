@@ -8,5 +8,5 @@ I do random stuff. Functional programming, type theory, AI, manifestos, hackersp
 
 * Email: beka@queeriouslabs.com beka@gothdyke.mom
 * Website: gothdyke.mom
-* Twitter: https://twitter.com/beka_valentine
-* Github: https://github.com/psygnisfive
+* Twitter: https://twitter.com/defnotbeka
+* Github: https://github.com/BekaValentine
