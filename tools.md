@@ -16,10 +16,11 @@ Fully functional; prints well with the default settings defined for it in Lychee
 ## Makerbot Replicator 2X
 ### Status as of 2022-12-31
 Printer is turning on but has not been analyzed further.
+
 ## Monoprice Select Mini (V1)
 [manual](https://downloads.monoprice.com/files/manuals/15365_Manual_170509.pdf)
-### Status as of 2022-12-31
-Printer is turning on.
+### Status as of 2023-04-29
+Printer is leveled and prints successfully.
 
 ## Anycubic Kossel Delta Printer
 ### Status as of 2022-12-31
