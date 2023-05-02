@@ -65,6 +65,13 @@ Can do ~15 stitches mechanically chosen.
 
 Works!
 
+## Singer Model 1234 (white)
+Can do ~6 stitches mechanially chosen.
+
+### Status as of 2023-05-01
+
+Works!
+
 # Misc.
 ## 10-ton Hydraulic Shop Press
 ### Status as of 2023-05-01
