@@ -31,16 +31,32 @@ Unknown
 ### Status as of 2023-04-29
 Fully functional.
 
-# Sewing Machines
-### General Status as of 2021-05-29
-As far as we know, one of the three machines is functional. The other two have damage that require work to both diagnose and fix.
-
 # CNC Machines
 ## MPCNC
-### General Status as of 2023-05-01
+### Status as of 2023-05-01
 
 Needs to be fully re-assembled and test. More details [here](/tools/mpcnc).
 
 ## Laser Cutter
-### General Status as of 2023-04-29
+### Status as of 2023-04-29
 Works! more details [here](/tools/lasercutter)
+
+# Sewing Machines
+## General Status as of 2023-05-01
+As far as we know, two or three of the machines are functional.
+
+## Brother SE-600
+### Status as of 2023-05-01
+
+Works! Requires proprietary software to run.
+
+# Misc.
+## 10-ton Hydraulic Shop Press
+### Status as of 2023-05-01
+
+Works!
+
+## US Cutter Vinyl Cutter
+### Status as of 2023-05-01
+
+Works! Takes HPGL over serial. Has some proprietary software that it runs.
