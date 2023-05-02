@@ -37,8 +37,9 @@ As far as we know, one of the three machines is functional. The other two have d
 
 # CNC Machines
 ## MPCNC
-### General Status as of 2020-01-14
-Works! more details [here](/tools/mpcnc).
+### General Status as of 2023-05-01
+
+Needs to be fully re-assembled and test. More details [here](/tools/mpcnc).
 
 ## Laser Cutter
 ### General Status as of 2023-04-29
