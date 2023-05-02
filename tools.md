@@ -60,3 +60,8 @@ Works!
 ### Status as of 2023-05-01
 
 Works! Takes HPGL over serial. Has some proprietary software that it runs.
+
+## Vacuum Chamber & Pump
+### Status as of 2023-05-01
+
+Works!
