@@ -49,12 +49,21 @@ Works! more details [here](/tools/lasercutter)
 ## General Status as of 2023-05-01
 As far as we know, two or three of the machines are functional.
 
-## Brother SE-600
+## Brother SE-600 Digital Sewing and Embroidery Machine
+Has many many stitches, great digital instruction, can do CNC embroidery.
+
 ### Status as of 2023-05-01
 
 Works! Requires proprietary software to run.
 
 Note: also accepts certain formats from inkstitch (open source) but may jam easily unless care is taken.
+
+## Singer Heavy Duty Model 44S (grey)
+Can do ~15 stitches mechanically chosen.
+
+### Status as of 2023-05-01
+
+Works!
 
 # Misc.
 ## 10-ton Hydraulic Shop Press
