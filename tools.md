@@ -46,9 +46,6 @@ Needs to be fully re-assembled and test. More details [here](/tools/mpcnc).
 Works! more details [here](/tools/lasercutter)
 
 # Sewing Machines
-## General Status as of 2023-05-01
-As far as we know, two or three of the machines are functional.
-
 ## Brother SE-600 Digital Sewing and Embroidery Machine
 Has many many stitches, great digital instruction, can do CNC embroidery.
 
