@@ -6,7 +6,7 @@
 The MPCNC is a built-from-scratch CNC router/mill made using V1 Engineering's 3D Printable design and standard parts. It's capable of cutting most common materials, including wood, aluminum (slowly),
 and mild steel (in theory). 
 
-## Repair and Re-assembly Status
+## Repair and Re-assembly Status (2023-05-01)
 Tasks to complete for this:
 
 1. Frame needs to be positioned properly in the case, and holes in the base plate need to be drilled, so the frame can be re-attached
