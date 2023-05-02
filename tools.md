@@ -12,10 +12,14 @@ The printer needs a 24V 2A adapter with an appropriate barrel jack whose locatio
 [Official printer details](https://www.creality3dofficial.com/products/ld-002r-lcd-resin-3d-printer)
 ### Status as of 2022-12-31
 Fully functional; prints well with the default settings defined for it in Lychee Slicer. Still looking for open source alternative.
+### Status as of 2023-05-01
+Functional; recently ran a successful test with an open source slicing setup: use prusa slicer settings for the original prusa SL1 and post process with uv3dp for ctb version 2 (`uv3dp --progress ./prusa_output.sl1 ./file_for_printer.ctb --version 2 info`).
 
 ## Makerbot Replicator 2X
 ### Status as of 2022-12-31
 Printer is turning on but has not been analyzed further.
+### Status as of 2023-05-01
+Printer does not accept most SD cards; 2GB SDSC cards were acquired in the hopes they may work but we haven't been successful yet. Unclear where the problem lies.
 
 ## Monoprice Select Mini (V1)
 [manual](https://downloads.monoprice.com/files/manuals/15365_Manual_170509.pdf)
@@ -50,6 +54,8 @@ As far as we know, two or three of the machines are functional.
 
 Works! Requires proprietary software to run.
 
+Note: also accepts certain formats from inkstitch (open source) but may jam easily unless care is taken.
+
 # Misc.
 ## 10-ton Hydraulic Shop Press
 ### Status as of 2023-05-01
@@ -59,7 +65,7 @@ Works!
 ## US Cutter Vinyl Cutter
 ### Status as of 2023-05-01
 
-Works! Takes HPGL over serial. Has some proprietary software that it runs.
+Works! Takes HPGL over serial (USB to serial cable in accessories box).
 
 ## Vacuum Chamber & Pump
 ### Status as of 2023-05-01
