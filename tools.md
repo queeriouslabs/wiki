@@ -69,6 +69,16 @@ Can do ~6 stitches mechanially chosen.
 
 Works!
 
+# DMX Lighting
+## Controller
+### Lixada DMX Show Designer
+https://www.lixada.com/p-l1350us.html
+
+## Lights
+### Chauvet DJ SlimPAR64
+https://www.chauvetdj.com/products/slimpar-64/
+2x on top of middle room loft
+?? in front
 # Misc.
 ## 10-ton Hydraulic Shop Press
 ### Status as of 2023-05-01
