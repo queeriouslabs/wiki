@@ -70,11 +70,14 @@ Can do ~6 stitches mechanially chosen.
 Works!
 
 # DMX Lighting
+### DMX Primer
+https://www.chauvetlighting.com/downloads/DMX_Primer_rev05_WO.pdf
+
 ## Controller
 ### Lixada DMX Show Designer
 https://www.lixada.com/p-l1350us.html
 
-## Lights
+## Fixtures
 ### Chauvet DJ SlimPAR64
 https://www.chauvetdj.com/products/slimpar-64/
 2x on top of middle room loft
