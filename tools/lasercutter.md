@@ -1,10 +1,7 @@
 <!-- TITLE: Laser Cutter -->
 <!-- SUBTITLE: The 100W CO2 laser cutter -->
 
-# Key
--Engraving
-	Light = Marking
-	Medium = 
+
 # Training Info
 If you would like to be trained on the laser cutter, please ask in `#pewpew` in the Discord, or email `lasertrainers@queeriouslabs.com`.
 
