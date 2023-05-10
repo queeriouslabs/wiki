@@ -1,6 +1,10 @@
 <!-- TITLE: Laser Cutter -->
 <!-- SUBTITLE: The 100W CO2 laser cutter -->
 
+# Key
+-Engraving
+	Light = Marking
+	Medium = 
 # Training Info
 If you would like to be trained on the laser cutter, please ask in `#pewpew` in the Discord, or email `lasertrainers@queeriouslabs.com`.
 
@@ -23,3 +27,9 @@ These materials are ok to cut in the laser cutter. If your material is NOT liste
   - 1/4in = 8mm/s @ 60W
   - 1/8in = 20mm/s @ 60W
   - 1/32in = 80mm/s @ 60W
+
+### Rubber Stamp
+
+- Engraving: 100mm/s @ 20-30W
+- Cutting
+  - .09in nominal = 20mm/s @ 60W
