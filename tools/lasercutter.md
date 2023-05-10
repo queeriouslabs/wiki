@@ -29,4 +29,4 @@ These materials are ok to cut in the laser cutter. If your material is NOT liste
 
 - Engraving: 100mm/s @ 20-30W
 - Cutting
-  - .09in nominal = 20mm/s @ 60W
+  - .09in nominal = 10mm/s @ 60W
