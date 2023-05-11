@@ -1,4 +1,4 @@
-<!-- TITLE: Laser Cutter -->
+y<!-- TITLE: Laser Cutter -->
 <!-- SUBTITLE: The 100W CO2 laser cutter -->
 
 
@@ -30,3 +30,8 @@ These materials are ok to cut in the laser cutter. If your material is NOT liste
 - Engraving: 100mm/s @ 20-30W
 - Cutting
   - .09in nominal = 10mm/s @ 60W
+
+### Poly Propalene
+
+- Cutting
+  - .07in = 40mm/s @ 40W
