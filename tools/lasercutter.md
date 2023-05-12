@@ -1,4 +1,4 @@
-y<!-- TITLE: Laser Cutter -->
+<!-- TITLE: Laser Cutter -->
 <!-- SUBTITLE: The 100W CO2 laser cutter -->
 
 
