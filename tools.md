@@ -27,8 +27,8 @@ Printer does not accept most SD cards; 2GB SDSC cards were acquired in the hopes
 Printer is leveled and prints successfully.
 
 ## Anycubic Kossel Delta Printer
-### Status as of 2022-12-31
-Unknown
+### Status as of 2023-5-12
+Prints in mid air, probe for machine is unplugged. Needs Marlin firmware updated.
 
 # Book Scanners
 ## Czur Book Scanner
