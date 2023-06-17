@@ -27,8 +27,9 @@ Printer does not accept most SD cards; 2GB SDSC cards were acquired in the hopes
 Printer is leveled and prints successfully.
 
 ## Anycubic Kossel Delta Printer
-### Status as of 2023-5-12
-Prints in mid air, probe for machine is unplugged. Needs Marlin firmware updated.
+### Status as of 2023-6-17
+Works fine.  If it's printing in mid-air, it needs recalibartion.  The right value for the z-offset is -15.98.
+Follow the instructions for the z-offset calibration from the manual.  Please follow the manual. It does not work if you attempt to recalibrate based on vibes.  Follow the manual EXACTLY.
 
 # Book Scanners
 ## Czur Book Scanner
