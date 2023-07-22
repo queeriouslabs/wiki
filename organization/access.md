@@ -117,4 +117,4 @@ Our VPSs etc… are hosted on Google Cloud Platform under the project: Core Infr
   * Cloud Platform Project Owners
 * SSH:
   * Global SSH
-  * [Matt](/people/matt)
+  * **[Matt](/people/matt) (responsible)**
