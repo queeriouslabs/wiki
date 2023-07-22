@@ -43,6 +43,7 @@ This document lists the various systems / things that have limited access, and w
 * Nick P (Noisebridge)
 * Step
 * Jonas
+* Dirk
 
 # IT / Systems / Infrastructure
 Email <sysadmins@queeriouslabs.com> with any questions etc...
