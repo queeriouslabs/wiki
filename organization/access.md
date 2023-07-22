@@ -63,14 +63,16 @@ Email <sysadmins@queeriouslabs.com> with any questions etc...
 * KeePass Users
 
 ## GitHub Org ([github.com/queeriouslabs](https://github.com/queeriouslabs))
-* **[Sam](/people/sam) (Owner) (Responsible)**
+* [Sam](/people/sam) (Owner) 
 * [Beka](/people/beka) (Owner)
-* [Matt](/people/matt) (Owner)
+* **[Matt](/people/matt) (Owner) (Responsible)**
 * [...]
 
 ## Discourse
 * **[r](/people/r) (responsible)**
 * [Beka](/people/beka)
+
+Note: discourse has been turned down
 
 ## Discord
 * Beka (responsible)
@@ -78,10 +80,10 @@ Email <sysadmins@queeriouslabs.com> with any questions etc...
 
 ## GSuite
 
-### Admins
-* **[Sam](/people/sam) (responsible)**
+### Super Admins
+* [Sam](/people/sam) 
 * [Beka](/people/beka)
-* [r](/people/r)
+* **[r](/people/r) (responsible)**
 
 ### Groups
 Most access to various Google / GSuite resources are done through groups.
@@ -103,8 +105,8 @@ Our VPSs etc… are hosted on Google Cloud Platform under the project: Core Infr
 
 #### Owners ([manage](https://console.cloud.google.com/iam-admin/iam?project=onyx-glider-237821))
 * GSuite Admins
-* **[Sam](/people/sam) (responsible)**
-* [r](/people/r)
+* [Sam](/people/sam)
+* **[r](/people/r) (responsible)**
 
 #### Global SSH to All VMs ([manage](https://console.cloud.google.com/compute/metadata/sshKeys?project=onyx-glider-237821))
 * [Sam](/people/sam)
@@ -115,3 +117,4 @@ Our VPSs etc… are hosted on Google Cloud Platform under the project: Core Infr
   * Cloud Platform Project Owners
 * SSH:
   * Global SSH
+  * [Matt](/people/matt)
