@@ -83,6 +83,14 @@ https://www.lixada.com/p-l1350us.html
 https://www.chauvetdj.com/products/slimpar-64/
 2x on top of middle room loft
 ?? in front
+# Electronics
+## Hakko FX-888D
+### Status as of 2023-08-10
+Works!
+
+## Yihua 936B
+### Status as of 2023-08-10
+Works!  (replaced 907A handle)
 # Misc.
 ## 10-ton Hydraulic Shop Press
 ### Status as of 2023-05-01
