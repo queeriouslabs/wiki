@@ -39,6 +39,11 @@ This appeared to work for z-calibration but requires some further tweaking.
 
 I want to migrate to mainline Marlin and do proper calibration.
 - Matt
+
+### Marlin Compiled Settings
+baud (for USB): 250000
+version: bugfix-2.1.x
+
 # Book Scanners
 ## Czur Book Scanner
 ### Status as of 2023-04-29
