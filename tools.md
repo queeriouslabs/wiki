@@ -40,6 +40,8 @@ This appeared to work for z-calibration but requires some further tweaking.
 I want to migrate to mainline Marlin and do proper calibration.
 - Matt
 
+post script:
+Magnet was right, marlin fixed the problems
 ### Marlin Compiled Settings
 baud (for USB): 250000
 version: bugfix-2.1.x
