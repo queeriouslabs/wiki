@@ -27,10 +27,18 @@ Printer does not accept most SD cards; 2GB SDSC cards were acquired in the hopes
 Printer is leveled and prints successfully.
 
 ## Anycubic Kossel Delta Printer
-### Status as of 2023-6-17
-Works fine.  If it's printing in mid-air, it needs recalibartion.  The right value for the z-offset is -15.98.
-Follow the instructions for the z-offset calibration from the manual.  Please follow the manual. It does not work if you attempt to recalibrate based on vibes.  Follow the manual EXACTLY.
+### Status as of 2023-8-13
+Work In Progress -- Do Not Use
 
+The base firmware does not properly use stored z-calibration values after a reboot.
+
+I have installed Marlin from here as a quick test:
+https://www.lpomykal.cz/kossel-marlin-firmware/
+
+This appeared to work for z-calibration but requires some further tweaking.
+
+I want to migrate to mainline Marlin and do proper calibration.
+- Matt
 # Book Scanners
 ## Czur Book Scanner
 ### Status as of 2023-04-29
