@@ -43,7 +43,7 @@ I want to migrate to mainline Marlin and do proper calibration.
 ### Marlin Compiled Settings
 baud (for USB): 250000
 version: bugfix-2.1.x
-
+marlin configuration file: delta/Anycubic/Kossel Linear Plus
 # Book Scanners
 ## Czur Book Scanner
 ### Status as of 2023-04-29
