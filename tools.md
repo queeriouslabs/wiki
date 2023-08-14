@@ -41,11 +41,17 @@ There's an issue which occurs at the end of a print.  The machine attempts to ho
 
 Cura / Marlin doesn't appear to home the extruder correctly for a delta bot.  Please change the End G-Code to:
 `M104 S0
+
 M140 S0
+
 ;Retract the filament
+
 G92 E1
+
 G1 E-1 F300
+
 M84
+
 G28 
 `
 
