@@ -28,7 +28,7 @@ Printer is leveled and prints successfully.
 
 ## Anycubic Kossel Delta Printer
 ### Status as of 2023-8-13
-Work In Progress -- Do Not Use
+Work In Progress -- Use With Caution, please read this note!
 
 The base firmware does not properly use stored z-calibration values after a reboot.
 
