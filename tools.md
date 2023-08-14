@@ -32,16 +32,24 @@ Work In Progress -- Do Not Use
 
 The base firmware does not properly use stored z-calibration values after a reboot.
 
-I have installed Marlin from here as a quick test:
-https://www.lpomykal.cz/kossel-marlin-firmware/
+The machine now runs Marlin.  Z-calibration seems quite good, but other tuning steps are needed, as the filament is stringing.
+- PID: https://www.lpomykal.cz/kossel-pid-calibration/
+- Extruder: https://www.lpomykal.cz/anycubic-kossel-marlin-extruder-calibration/
+- Flow:  https://www.lpomykal.cz/anycubic-kossel-marlin-flow-calibration/
 
-This appeared to work for z-calibration but requires some further tweaking.
+There's an issue which occurs at the end of a print.  The machine attempts to home the extruder, but only homes one axis at a time, which doesn't work with a delta configuration.  This causes the firmware to throw an error as the end-stops cannot be reached, and the machine halts and beeps.  It's not the end of the world but it sucks.
 
-I want to migrate to mainline Marlin and do proper calibration.
-- Matt
+Cura / Marlin doesn't appear to home the extruder correctly for a delta bot.  Please change the End G-Code to:
+`M104 S0
+M140 S0
+;Retract the filament
+G92 E1
+G1 E-1 F300
+M84
+G28 
+`
 
-post script:
-Magnet was right, marlin fixed the problems
+
 ### Marlin Compiled Settings
 baud (for USB): 250000
 version: bugfix-2.1.x
