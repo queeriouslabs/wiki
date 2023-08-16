@@ -2,6 +2,10 @@
 <!-- SUBTITLE: A brief list of some tools and their status -->
 
 # 3D Printers
+## Anycubic Vyper
+[Official Anycubic page](https://www.anycubic.com/products/anycubic-vyper)
+### Status as of 2023-08-15
+Printer is now setup; cura default for the printer works - likely can go faster though.
 ## Sparkmaker SLA Printer
 ### Status as of 2019-08-23
 Seems to be fully functional, but prints wont stick to the print plate. A new FEP had no effect. It's unclear what the cause of this was. It might have simply been the orientation of the printed part, given it's surface area. The resin is also possibly a little older than is desirable.
