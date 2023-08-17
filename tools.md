@@ -45,17 +45,7 @@ The machine now runs Marlin.  Z-calibration seems quite good, but other tuning s
 
 There's an issue which occurs at the end of a print.  The machine attempts to home the extruder, but only homes one axis at a time, which doesn't work with a delta configuration.  This causes the firmware to throw an error as the end-stops cannot be reached, and the machine halts and beeps.  It's not the end of the world but it sucks.
 
-Cura / Marlin doesn't appear to home the extruder correctly for a delta bot.  Please change the End G-Code to:
-
-```gcode
-M104 S0
-M140 S0
-;Retract the filament
-G92 E1
-G1 E-1 F300
-M84
-G28 
-```
+The latest Cura includes a machine profile for the Anycubic Kossel Linear Plus
 
 ### Marlin Compiled Settings
 baud (for USB): 250000
