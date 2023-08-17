@@ -31,13 +31,15 @@ Printer does not accept most SD cards; 2GB SDSC cards were acquired in the hopes
 Printer is leveled and prints successfully.
 
 ## Anycubic Kossel Delta Printer
-### Status as of 2023-8-13
-Work In Progress -- Use With Caution, please read this note!
+### Status as of 2023-8-17
+Work In Progress -- Do Not Use
+I broke a bowden coupler, replacements coming shortly.
 
+Note:
 The base firmware does not properly use stored z-calibration values after a reboot.
 
 The machine now runs Marlin.  Z-calibration seems quite good, but other tuning steps are needed, as the filament is stringing.
-- PID: https://www.lpomykal.cz/kossel-pid-calibration/
+- [Done] PID: https://www.lpomykal.cz/kossel-pid-calibration/ 
 - Extruder: https://www.lpomykal.cz/anycubic-kossel-marlin-extruder-calibration/
 - Flow:  https://www.lpomykal.cz/anycubic-kossel-marlin-flow-calibration/
 
