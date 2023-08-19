@@ -17,6 +17,7 @@ Queerious Labs has a Code of Conduct that we take very seriously. We want this p
   * [Mods](/organization/mods)
   * [Access & Responsibilities](/organization/access) - Who has access to what and who is responsible for what
   * [Financial Information](/financial-information) - Our financial information
+  * [Compliance Information](/compliance-information) - Stuff we need to do for compliance as a CA non-profit
 * [Weekly Meetings](/weekly-meetings)
 * [Systems & Infrastructure](/infrastructure)
 * [Events & Classes](/events) - What events & classes are coming up?
