@@ -22,6 +22,8 @@ Lookup current state: https://bizfileonline.sos.ca.gov/search/business
 
 Filings overview (good resource for more than just the FTB 199 series forms): https://www.ftb.ca.gov/file/business/types/charities-nonprofits/annual-and-filing-requirements.html
 
+Check organization status (online or other methods): https://www.ftb.ca.gov/help/business/entity-status-letter.asp
+
 #### Form 199
 
 Income info filed at the state level
