@@ -1,7 +1,7 @@
 <!-- TITLE: Financial Information -->
 
 # Financial Information
-This page documents the publicly available financial information about Queerious Labs. We strie to be transparent about our finances, so if you feel anything is missing, please get in touch!
+This page documents the publicly available financial information about Queerious Labs. We strive to be transparent about our finances, so if you feel anything is missing, please get in touch!
 
 For questions or comments regarding our finances, contact the treasurer at `treasurer@queeriouslabs.com`.
 
