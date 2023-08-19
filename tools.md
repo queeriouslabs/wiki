@@ -126,3 +126,6 @@ Works! Takes HPGL over serial (USB to serial cable in accessories box).
 ### Status as of 2023-05-01
 
 Works!
+
+## Big Red Doorbell Button
+Wiring: connct to C10 and R4 (produces an Enter keypress)
