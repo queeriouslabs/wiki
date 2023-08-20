@@ -32,15 +32,14 @@ Printer is leveled and prints successfully.
 
 ## Anycubic Kossel Delta Printer
 ### Status as of 2023-8-17
-Work In Progress -- Do Not Use
-I broke a bowden coupler, replacements coming shortly.
+Work In Progress -- Use With Caution
 
 Note:
 The base firmware does not properly use stored z-calibration values after a reboot.
 
 The machine now runs Marlin.  Z-calibration seems quite good, but other tuning steps are needed, as the filament is stringing.
-- [Done] PID: https://www.lpomykal.cz/kossel-pid-calibration/ 
-- Extruder: https://www.lpomykal.cz/anycubic-kossel-marlin-extruder-calibration/
+- [Done] ~~PID: https://www.lpomykal.cz/kossel-pid-calibration/ ~~
+- [Done] ~~Extruder: https://www.lpomykal.cz/anycubic-kossel-marlin-extruder-calibration/~~
 - Flow:  https://www.lpomykal.cz/anycubic-kossel-marlin-flow-calibration/
 
 There's an issue which occurs at the end of a print.  The machine attempts to home the extruder, but only homes one axis at a time, which doesn't work with a delta configuration.  This causes the firmware to throw an error as the end-stops cannot be reached, and the machine halts and beeps.  It's not the end of the world but it sucks.
