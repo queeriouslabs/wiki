@@ -7,4 +7,13 @@ MOOP (short for Matter Out Of Place), is both a noun that means stuff that is no
 
 The term originates in the Burning Man community.
 
-See also: [DNH](DNH)
+## Examples of Moop
+
+- Tools left out
+- Plates, utensils, and food left out
+- Stray leaves
+- Unlabelled projects left out (see [DNH](DNH))
+
+## See Also
+
+[DNH/Do Not Hack](DNH)
