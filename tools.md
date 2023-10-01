@@ -103,9 +103,9 @@ https://www.chauvetdj.com/products/slimpar-64/
 2x on top of middle room loft
 ?? in front
 # Electronics
-## Keysight Oscilliscope
-### Status as of 2023-09-30
-Not working; stored in the basement cabinets. 
+## HP Agilent Infiniium Oscilliscope
+### Status as of 2023-10-01
+Fixed! It takes a while to boot (~5 min). 
 
 ## Hakko FX-888D
 ### Status as of 2023-08-10
