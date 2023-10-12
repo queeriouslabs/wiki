@@ -25,13 +25,19 @@ These materials are ok to cut in the laser cutter. If your material is NOT liste
   - 1/8in = 20mm/s @ 60W
   - 1/32in = 80mm/s @ 60W
 
+### Cardboard
+
+- Cutting
+	- double thickness = 40mm/s @ 60w
+
+### Poly Propylene
+
+- Cutting
+  - .07in = 40mm/s @ 40W
+
 ### Rubber Stamp
 
 - Engraving: 100mm/s @ 20-30W
 - Cutting
   - .09in nominal = 10mm/s @ 60W
 
-### Poly Propalene
-
-- Cutting
-  - .07in = 40mm/s @ 40W
