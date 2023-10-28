@@ -41,3 +41,7 @@ These materials are ok to cut in the laser cutter. If your material is NOT liste
 - Cutting
   - .09in nominal = 10mm/s @ 60W
 
+### Plywood
+
+- Cutting
+  - 2.5mm = 30mm/s @ 60w
