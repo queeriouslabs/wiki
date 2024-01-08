@@ -80,6 +80,26 @@ NOTE: Much of corporate donation matching comes through Paypal.
   * Weird "analysis charge" credit (income?): $25.56
   * Weird "analysis charge" fee (expense?): $25.56
 
+### 2022 Financial Flows (WIP)
+
+* Income: $28795.53
+	* Patreon: $8086.50
+	* Paypal: $8209.03
+	* Other: $12500
+* Expenses: $34598.77
+	* Rent: $30000
+	* Web Infrastructure: $351.09
+	* Internet: $900
+	* Utilities: $1708.79
+	* Insurance: $654
+	* Purchases: $909.89
+		* ?: $68.41
+		* $6.83 (Cole Hardware)
+		* ?: $315
+		* ?: $461.66
+		* ?: $57.99
+	* Compliance / filing fees: $75
+
 ### 2023 Financial Flows
 
 * Income: $38394.20
@@ -94,7 +114,7 @@ NOTE: Much of corporate donation matching comes through Paypal.
 		* PG&E: $1753.64
 	* Purchases: N/A
 	* Insurance: $974.73
-	* Compliance: $50
+	* Compliance / filing fees: $50
 
 ## Bank Account
 We have a bank account at First Republic. Contact `treasurer@` if account info is needed.
