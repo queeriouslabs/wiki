@@ -93,11 +93,11 @@ NOTE: Much of corporate donation matching comes through Paypal.
 	* Utilities: $1708.79
 	* Insurance: $654
 	* Purchases: $909.89
-		* ?: $68.41
+		* 3D Printer Filament: $68.41
 		* $6.83 (Cole Hardware)
-		* ?: $315
-		* ?: $461.66
-		* ?: $57.99
+		* Projector: $315
+		* Refrigerator: $461.66
+		* Refrigerator Damage Protection: $57.99
 	* Compliance / filing fees: $75
 
 ### 2023 Financial Flows
