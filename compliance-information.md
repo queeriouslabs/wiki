@@ -58,4 +58,6 @@ Form overviews (includes links to PDFs and instructions):
 - https://www.irs.gov/forms-pubs/about-form-990
 - https://www.irs.gov/forms-pubs/about-form-990-ez
 
+If we remain below ~$50k in gross receipts, we can file 990-N online which is much simpler: https://www.irs.gov/charities-non-profits/annual-electronic-filing-requirement-for-small-exempt-organizations-form-990-n-e-postcard
+
 Note that there are a variety of varients of form 990 for different income brackets and complexities.
