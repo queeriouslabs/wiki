@@ -30,6 +30,11 @@ These materials are ok to cut in the laser cutter. If your material is NOT liste
 - Cutting
 	- double thickness = 40mm/s @ 60w
 
+### Chip Board (like very thick cardstock)
+
+- Cutting
+	- 1/8in = 25mm/s @ 60W
+
 ### Poly Propylene
 
 - Cutting
