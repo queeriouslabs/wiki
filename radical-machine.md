@@ -1,4 +1,4 @@
-<!-- TITLE: Radical Hostname -->
+<!-- TITLE: Radical (machine) -->
 <!-- SUBTITLE: A machine running Home Assistant somewhere in QL, possibly by the DMX controller -->
 
 # Radical
