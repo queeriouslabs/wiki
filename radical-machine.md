@@ -6,7 +6,9 @@ Radical is an Intel NUC model NUC5PPYB.
 
 As of this edit, it's running Debian 12 (Bookworm).
 
-[https://www.home-assistant.io/](Home Assistant) is running on it.  You can access it at http://radical:8123
+[https://www.home-assistant.io/](Home Assistant) (HA) is running on it.  
+
+You can access HA at http://radical:8123.  At the moment accounts are required.  Not sure how to make this friendlier at this point, ask Matt for a login.
 
 If you want ssh access to it, ask someone who has acess.
 
