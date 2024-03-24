@@ -6,7 +6,7 @@ Radical is an Intel NUC model NUC5PPYB.
 
 As of this edit, it's running Debian 12 (Bookworm).
 
-[https://www.home-assistant.io/](Home Assistant) (HA) is running on it.  
+https://www.home-assistant.io/(Home Assistant) (HA) is running on it.  
 
 Inside the space, anyone can access HA at http://radical.queer:8123.  At the moment accounts are required.  Not sure how to make this friendlier at this point, ask Matt for a login.
 There's a generic user: `queeriouslabs` pword is the same as the wifi, which you would know if you were in the space rn, so don't even start asking.  This user is not an admin, which like, would probably be fine.
