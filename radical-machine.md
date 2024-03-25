@@ -32,7 +32,7 @@ Add the new user to sudoers.
 
 ```bash
 $ sudo visudo
-Ensure the line below exists in the file, by adding it if it's missing:
+# Ensure the line below exists in the file, by adding it if it's missing:
 <newuser>   ALL=(ALL:ALL) NOPASSWD: ALL
 ```
 
