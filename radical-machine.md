@@ -20,7 +20,7 @@ If you have access, and you want to grant access please:
 $ sudo useradd <newuser>
 $ sudo mkdir /home/<newuser>/.ssh
 $ sudo nano /home/<newuser>/.ssh/authorized_keys
-add a PUBLIC ssh key received from <newuser> into the authorized_keys file
+# add a PUBLIC ssh key received from <newuser> into the authorized_keys file
 $ sudo chown -R <newuser>:<newuser> /home/<newuser>/.ssh
 $ sudo chmod 0600 /home/<newuser>/.ssh/authorized_keys
 $ sudo chmod 0700 /home/<newuser>/.ssh
