@@ -39,3 +39,6 @@ $ sudo visudo
 assert `<newuser>` can do something like `$ sudo ls` without the shell complaining.
 
 If these instructions are wrong please fix them or note what's wrong or whatever.
+
+case from thingiverse:
+https://www.thingiverse.com/thing:5544406
