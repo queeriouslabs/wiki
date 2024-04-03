@@ -55,3 +55,5 @@ Users can be persisted over a rebuild there.  Someone ought to implement key man
 
 ## Backups
 Nothing is being automatically backed up yet, due to HA storing credientials.  This can be implemented easily using ansible-vault or similar.
+e.g.: https://www.home-assistant.io/integrations/backup/
+Set up the backup integration and then encrypt / store the resulting tarball.
