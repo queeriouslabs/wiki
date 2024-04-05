@@ -18,6 +18,8 @@ File statements of information online: https://bizfileonline.sos.ca.gov/
 
 Lookup current state: https://bizfileonline.sos.ca.gov/search/business
 
+Filing frequency: it's complicated but ~every other year (https://www.sos.ca.gov/business-programs/business-entities/faqs#delinquency-question3)
+
 ### CA Frachise Tax Board
 
 Filings overview (good resource for more than just the FTB 199 series forms): https://www.ftb.ca.gov/file/business/types/charities-nonprofits/annual-and-filing-requirements.html
@@ -30,6 +32,8 @@ Income info filed at the state level
 
 Note that there are a variety of varients of form 190 for different income brackets and complexities.
 
+Filing Frequency: yearly (usually due May 5th for orgs when calendar and financial year are the same -- https://www.ftb.ca.gov/forms/misc/1068.html)
+
 ### CA Office of the Attorny General
 
 Lookup info (note that the OAG is very backed up so the state is months to years out of data): https://rct.doj.ca.gov/Verification/Web/Search.aspx?facility=Y
@@ -40,11 +44,15 @@ Registration renewal
 
 PDF form: https://oag.ca.gov/system/files/media/rrf1_form.pdf
 
+Filing frequency: yearly
+
 #### CT-TR-1
 
 Treasurers report
 
 PDF form: https://oag.ca.gov/system/files/media/ct-tr1-form.pdf
+
+Filing frequence: yearly
 
 ### IRS
 
@@ -61,3 +69,5 @@ Form overviews (includes links to PDFs and instructions):
 If we remain below ~$50k in gross receipts, we can file 990-N online which is much simpler: https://www.irs.gov/charities-non-profits/annual-electronic-filing-requirement-for-small-exempt-organizations-form-990-n-e-postcard
 
 Note that there are a variety of varients of form 990 for different income brackets and complexities.
+
+Filing Frequency: yearly
