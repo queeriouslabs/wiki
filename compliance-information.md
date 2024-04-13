@@ -71,3 +71,12 @@ If we remain below ~$50k in gross receipts, we can file 990-N online which is mu
 Note that there are a variety of varients of form 990 for different income brackets and complexities.
 
 Filing Frequency: yearly
+
+## Identifiers
+
+Name: Queerious Labs
+TIN / FEIN: 83-3526414
+CA SOS #: 4244816
+RCT Number: CT0263977
+Corporation type: B-Corp (CA Public Benefit Corporation)
+IRS section: 501(c)(3)
