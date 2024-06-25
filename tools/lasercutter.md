@@ -25,6 +25,11 @@ These materials are ok to cut in the laser cutter. If your material is NOT liste
   - 1/8in = 20mm/s @ 60W
   - 1/32in = 80mm/s @ 60W
 
+### Mylar
+
+- Cutting
+  - 10 mil / 0.010" = 400mm/s @ 40W
+
 ### Cardboard
 
 - Cutting
