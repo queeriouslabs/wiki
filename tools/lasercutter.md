@@ -1,7 +1,8 @@
 <!-- TITLE: Laser Cutter -->
 <!-- SUBTITLE: The 100W CO2 laser cutter -->
-
-
+# Laser Cutter Info
+Nominal laser power: 100W (we usually use 60% or less for most things)
+Nominal bed dimensions: 500mm x 700mm
 # Training Info
 If you would like to be trained on the laser cutter, please ask in `#pewpew` in the Discord, or email `lasertrainers@queeriouslabs.com`.
 
