@@ -111,6 +111,20 @@ Fixed! It takes a while to boot (~5 min).
 ### Status as of 2023-08-10
 Works!
 
+The UI is confusing.
+
+To chage the Temperature, press and hold the `Enter` button.  
+If you press and hold the `Up` Button, you will actually decalibrate the temperature.  Which is very funny, but also makes the device appear broken.
+If it's not working well, like it won't heat up and won't take a new temperature, you can perform a factory reset.  
+- Turn off the switch
+- press and hold both the `up` and `Enter` buttons
+- turn on the switch while holding both buttons
+- Release both buttons when an `A` appears. This `A` stands for "Asian", and you can press `Up` to select `U` for United States.  
+
+Some YouTube explanation of the above: https://www.youtube.com/watch?v=VxeN9q336Wg
+
+It's really bad UI.  But it's a realy good soldering station.
+
 ## Yihua 936B
 ### Status as of 2023-08-10
 Works!  (replaced 907A handle)
