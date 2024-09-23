@@ -139,6 +139,8 @@ Works!
 
 Works! Takes HPGL over serial (USB to serial cable in accessories box).
 
+Inkcut can generate and send the right format if setup appropriately -- something along the lines of the following should  work: Device->Setup, Add, Name="QL US Cutter", Driver="Inkcut Generic Driver", Connection=(some sort of serial setup, defaults to 9600 baud -- details are computer dependent), Protocol->Language=HPGL
+
 ## Vacuum Chamber & Pump
 ### Status as of 2023-05-01
 
