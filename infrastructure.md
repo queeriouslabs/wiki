@@ -14,6 +14,9 @@ If you have a question / concern about anything related to this page, feel free 
 # Access
 For details of who has access to what, please see the [Access & Responsibilities](/organization/access) page.
 
+Access Control is managed with 13.65 MHz static ID Mifare Classic compatible tokens.
+
+
 # GSuite
 We have a free GSuite account, that we use for email, groups, calendars, drive, google cloud platform etc etc...
 
