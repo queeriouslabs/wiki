@@ -65,6 +65,10 @@ Needs to be fully re-assembled and test. More details [here](/tools/mpcnc).
 ### Status as of 2023-04-29
 Works! more details [here](/tools/lasercutter)
 
+## GENMITSU CNC Router PRO Diy Kit
+### Status as of 2025-03-20: board boots and runs grbl interpretter, but have not spun any motor.
+See [here](/tools/genmitsu-3018-pro-cnc) for more details
+
 # Sewing Machines
 ## Brother SE-600 Digital Sewing and Embroidery Machine
 Has many many stitches, great digital instruction, can do CNC embroidery.
