@@ -9,7 +9,9 @@ We have a fully assembled one of these, and it looks like it has upgraded steppe
 The driver is the Woodpecker CanxTool
 https://himalayansolution.com/product/woodpecker-cnc-camxtool-v3-4
 
-As of 3/20/2025, the board boots to GRBL 1.1f and accepts commands.  I was not able to get the steppers to move, and the spindle needs to be re-wired.
+As of 3/21/2025, the board boots to GRBL 1.1f and accepts commands.  
+
+Using the python program bCNC, I was able to home the device and move each stepper.  Seems like it's in working condition.  Need to actually mill something and see what happens.
 
 The powersupple is a a 24V 5A brick and the USB A - USB B mini cable ought to be cable-manged with it.
 
