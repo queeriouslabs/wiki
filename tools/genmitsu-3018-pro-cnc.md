@@ -18,3 +18,5 @@ The power supply is a a 24V 5A brick and the USB A - USB B mini cable ought to b
 The power button on the driver board is just a white clicky thing and easy to miss.
 
 Hopefully I will bring this up to a usable state.
+
+The spindle has a noticable wobble, more than 2mm if I had to guess, maybe more like 5mm. It's bad.
