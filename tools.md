@@ -66,7 +66,8 @@ Needs to be fully re-assembled and test. More details [here](/tools/mpcnc).
 Works! more details [here](/tools/lasercutter)
 
 ## GENMITSU CNC Router PRO Diy Kit
-### Status as of 2025-03-20: board boots and runs grbl interpretter, but have not spun any motor.
+### Status as of 2025-03-21: Works! 
+
 See [here](/tools/genmitsu-3018-pro-cnc) for more details
 
 # Sewing Machines
