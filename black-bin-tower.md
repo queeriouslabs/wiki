@@ -11,6 +11,8 @@ If you find a difference, please make a change to the page.
 The below table attemps to link to the bin in that position, but hey, who knows.
 
 ## Black Bin Tower
+Apparently table syntax doesn't work in this version.  Oh well, deal with it.
+
 | Empty | Empty |
 | Casting Supplies | Plastic organizational containers |
 | Bored Games | Brewing Supplies |
