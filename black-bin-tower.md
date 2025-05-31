@@ -16,4 +16,4 @@ Apparently table syntax doesn't work in this version.  Oh well, deal with it.
 | Empty | Empty |
 | Casting Supplies | Plastic organizational containers |
 | Bored Games | Brewing Supplies |
-| CCN router (parts) | Empty |
+| CNC router (parts) | Empty |
