@@ -8,7 +8,7 @@ Its hostname is `golb`, so it can be accessed via `golb` or `golb.queer` on the 
 
 ## Fileshare
 The fileshare can be accessed at `smb://golb`. Files can also be viewed through the nginx server at `http://golb`.
-Ansible setup for fileshare is at https://github.com/nim-ka/golb .
+Ansible setup for fileshare is at https://github.com/queeriouslabs/golb .
 
 ## Home Assistant
 The Home Assistant web portal can be accessed at `http://golb:8123`. Username is `queeriouslabs`, and password is the same as the WiFi password.
