@@ -56,3 +56,9 @@ These materials are ok to cut in the laser cutter. If your material is NOT liste
 
 - Cutting
   - 2.5mm = 30mm/s @ 60w
+
+
+### Basswood
+
+- Cutting
+  - 1/8" (3mm) = 15mm/s @ 60w
