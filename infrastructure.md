@@ -74,6 +74,8 @@ Currently a Wiki.js (v1) wiki on tachikoma, listening locally on port `3010`, ma
 
 Everyone who has an `@queeriouslabs.com` account should use google to log in, but we can also allow guests to log in using either another google account, or a username/pw.
 
+Note: in addition to adding an account, you need to explicitly change the account's access from Read Only to Read & Write for the account to be able to create and edit wiki pages.
+
 All the content is synced with the GitHub repo here: https://github.com/queeriouslabs/wiki
 # Discourse (discourse.queeriouslabs.com)
 Currently hosted on Beka's server, we need to move this over onto queerious labs infrastructure (probably tachikoma), and ensure we back things up properly.
