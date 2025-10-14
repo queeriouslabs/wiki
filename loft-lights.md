@@ -12,7 +12,13 @@ and using the Red, Green, Blue, White, and Blacklight values limited by 0 and 10
 
 You can also connect to the websocket directly at port 7777 (ws://loft.queer:7777/) and send the stringified JSON:
 ```
-["CMD", "lights", [r, g, b, q, p]]
+["CMD", "lights", [r, g, b, w, p]]
 ```
 
 where r, g, b, w, p are in range [0,1023]
+
+You can do this with a oneliner in your shell using the [websocat](https://github.com/vi/websocat) tool.
+
+```
+echo "[\"CMD\", \"lights\", [r, g, b, w, p]]" | websocat --ping-timeout 1 -1 ws://10.0.1.107:7777
+```
