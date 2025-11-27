@@ -15,8 +15,10 @@ Using the python program bCNC, I was able to home the device and move each stepp
 
 The power supply is a a 24V 5A brick and the USB A - USB B mini cable ought to be cable-manged with it.
 
-The power button on the driver board is just a white clicky thing and easy to miss.
+## The power button on the driver board is just a white clicky thing and easy to miss.
 
 Hopefully I will bring this up to a usable state.
 
-The spindle has a noticable wobble, more than 2mm if I had to guess, maybe more like 5mm. It's bad.
+The spindle appears to be from this kit:
+https://www.xinhuangduo.com/en/h-pd-73.html
+
