@@ -31,6 +31,8 @@ This document lists the various systems / things that have limited access, and w
 * Kat
 * Joe
 * Banasidhe
+* Skye
+* Alex
 
 ## Gate key
 * Everyone with inner door key
