@@ -24,8 +24,22 @@ https://www.xinhuangduo.com/en/h-pd-73.html
 
 
 ## How to use
-The main goal of CNC machining is to not crash the machine, which means don't drive the bit deep into the material, bed, parts of the machine, or anything else unintended.  This can harm the machine, and potentially someone standing near by casting material or marchine parts around the area at velocity.
+The main goal of CNC machining is to not crash the machine.  Crashing the machine means don't drive the bit deep into the material, machine bed, other parts of the machine, or anything else unintended in a way that breaks some part.  This can harm the machine, and potentially someone standing near by casting material or marchine parts around the area at velocity.
 
 You need a way to create G-code for the machine. When you create this G-code, it must not have instructions that crash the machine.  Ideally it will have instructions which create a useful part, but that's not really the main goal.   That's just a side-benefit of not crashing the machine.
 
-You can use an 
+CAD programs can take a design and turn it into G-Code.  IF you understand 3d printing, you you understand slicing.  Same idea.  CAM (Computer Aided Manufacturing) is the dicipline related to useing a computer to manufacture something.  It's about modelling a part and then preparing that model, in some way, for machining.  
+
+Paths, or tool paths, are the basic unit of work for CAM.  The goal of using a CAD program to do CAM is to create paths which will not crash the machine.  These paths are in some sense generic: they are 3D movements the machine will make, and in some sense specifc: they use the 3d geometry of the machine, tool bits, and part to exciiting things like drill holes, mill material, and not crash the machine.  
+
+The CAD program will compute the paths and render them into G-Code.
+
+These links cover some basics using FreeCAD, which works. FreeCAD is not necessarily good, nor friendly, but it is free.
+[FreeCAD 1.1 tutorial](https://www.youtube.com/watch?v=7nBCaV5J0Ts)
+
+[FreeCAD Path (CAM) workbench](https://www.youtube.com/watch?v=XRNnWAUoXrk)
+
+The second link is for a 3018 specifically, though that is more about the dimensions of the machine, than the specific Genmitsu 3018-PRO.
+
+The above videos will explain what you need to know, in general, to create G-code for the CNC machine.
+
