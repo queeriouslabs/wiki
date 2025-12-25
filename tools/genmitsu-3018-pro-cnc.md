@@ -24,7 +24,7 @@ The XYZ power supply is a a 24V 5A brick and the USB A - USB B mini cable ought 
 
 ![Showing Power Socket On Controller Annotated](/uploads/genmitsu/showing-power-socket-on-controller-annotated.png "Showing Power Socket On Controller Annotated")
 
-### Spinle Power supply
+### Spindle Power supply
 The power supply for the spindle Is separate and is controlled via a potentiometer.
 
 ## The power button 
@@ -32,7 +32,7 @@ The power supply for the spindle Is separate and is controlled via a potentiomet
 The power button for the controller needs to be pushed in to turn on the controller.
 
 ## How to use
-The main goal of CNC machining is to not crash the machine.  Crashing the machine means don't drive the bit deep into the material, machine bed, other parts of the machine, or anything else unintended in a way that breaks some part.  This can harm the machine, and potentially someone standing near by casting material or marchine parts around the area at velocity.
+The main goal of CNC machining is to not crash the machine.  Crashing the machine means don't drive the tool bit deep into the material, machine bed, other parts of the machine, or anything else unintended in a way that breaks something.  This can harm the machine, and potentially someone standing near by, casting material or marchine parts around the area at velocity.
 
 You need a way to create G-code for the machine. When you create this G-code, it must not have instructions that crash the machine.  Ideally it will have instructions which create a useful part, but that's not really the main goal.   That's just a side-benefit of not crashing the machine.
 
