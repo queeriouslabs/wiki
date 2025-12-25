@@ -58,5 +58,7 @@ You do not need more than 1mm of negative z-depth to achieve a through hole or c
 
 It's JUST a piece of MDF, so a new one can be cut from cheap MDF.  Keep the hardware (screws, inserts, T-nuts, etc) and a new one can be cut.
 
+The visible holes have M5 inserts which can be used to attach workholders.
+
 ![With Spoil Board](/uploads/genmitsu/with-spoil-board.png "With Spoil Board")
 
