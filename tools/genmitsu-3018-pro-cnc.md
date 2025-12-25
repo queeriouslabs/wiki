@@ -17,7 +17,7 @@ As of 3/21/2025, the board boots to GRBL 1.1f and accepts commands.
 Using the python program bCNC, I was able to home the device and move each stepper and the spindle.  Seems like it's in working condition.  Need to actually mill something and see what happens.
 
 ## Power
-There are two power supplies, one for the controller and the XYZ motion steppers, and a separate supply for the spindle.
+There are two power supplies, one for the controller and the XYZ motion steppers, and a separate supply for the spindle.  The spindle can run off the 24V supplied by the brick via a connection on the controller.  This is unlikely to be able to maintain cutting speeds on anything except the softest of materials.  This is useful for debugging the machine, though.
 
 ### 24V power Brick for XYZ
 The XYZ power supply is a a 24V 5A brick and the USB A - USB B mini cable ought to be cable-manged with it.
