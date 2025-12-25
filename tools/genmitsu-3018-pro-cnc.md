@@ -6,6 +6,9 @@ https://www.sainsmart.com/products/sainsmart-genmitsu-cnc-router-3018-pro-diy-ki
 
 We have a fully assembled one of these, and it looks like it has upgraded steppers and a much beefier spindle.
 
+The spindle appears to be from this kit:
+https://www.xinhuangduo.com/en/h-pd-73.html
+
 The driver is the Woodpecker CanxTool
 https://himalayansolution.com/product/woodpecker-cnc-camxtool-v3-4
 
@@ -15,13 +18,10 @@ Using the python program bCNC, I was able to home the device and move each stepp
 
 The power supply is a a 24V 5A brick and the USB A - USB B mini cable ought to be cable-manged with it.
 
-## The power button on the driver board is just a white clicky thing and easy to miss.
+## The power button 
+![Controller](/uploads/genmitsu/controller.png "Controller")
 
-Hopefully I will bring this up to a usable state.
-
-The spindle appears to be from this kit:
-https://www.xinhuangduo.com/en/h-pd-73.html
-
+The power button for the controller needs to be pushed in to turn on the controller.
 
 ## How to use
 The main goal of CNC machining is to not crash the machine.  Crashing the machine means don't drive the bit deep into the material, machine bed, other parts of the machine, or anything else unintended in a way that breaks some part.  This can harm the machine, and potentially someone standing near by casting material or marchine parts around the area at velocity.
