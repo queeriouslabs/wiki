@@ -22,8 +22,5 @@ Hopefully I will bring this up to a usable state.
 The spindle appears to be from this kit:
 https://www.xinhuangduo.com/en/h-pd-73.html
 
-![Pxl 20251211 231231112](/uploads/genmitsu/pxl-20251211-231231112.jpg "Pxl 20251211 231231112")
+![Pxl 20251211 231231112](/uploads/genmitsu/pxl-20251211-231231112.jpg "Pxl 20251211 231231112" =400)
 
-![Pxl 20251211 231239433](/uploads/genmitsu/pxl-20251211-231239433.jpg "Pxl 20251211 231239433")
-
-![Pxl 20251211 232853826](/uploads/genmitsu/pxl-20251211-232853826.jpg "Pxl 20251211 232853826")
