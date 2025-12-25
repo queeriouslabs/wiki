@@ -29,7 +29,6 @@ The power supply for the spindle Is separate and is controlled via a potentiomet
 
 ## The power button 
 ![Controller](/uploads/genmitsu/controller.png "Controller")
-
 The power button for the controller needs to be pushed in to turn on the controller.
 
 ## How to use
