@@ -51,3 +51,12 @@ The second link is for a 3018 specifically, though that is more about the dimens
 
 The above videos will explain what you need to know, in general, to create G-code for the CNC machine.
 
+## Spoilboard
+The purpose of a spoilboard is to let you go negative into the work-surface by a small amount. Note that there are screw heads a couple millimeters below the top surface of the spoilboard. Do not hit those.  That counts as crashing the machine.
+
+You do not need more than 1mm of negative z-depth to achieve a through hole or cut.  That's what the spoilboard is for.  It's a consumable, though can last for a few work-pieces while attempting to remain flat.
+
+It's JUST a piece of MDF, so a new one can be cut from cheap MDF.  Keep the hardware (screws, inserts, T-nuts, etc) and a new one can be cut.
+
+![With Spoil Board](/uploads/genmitsu/with-spoil-board.png "With Spoil Board")
+
