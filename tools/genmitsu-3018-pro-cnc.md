@@ -22,5 +22,10 @@ Hopefully I will bring this up to a usable state.
 The spindle appears to be from this kit:
 https://www.xinhuangduo.com/en/h-pd-73.html
 
-![Pxl 20251211 231231112](/uploads/genmitsu/pxl-20251211-231231112.jpg "Pxl 20251211 231231112")
 
+## How to use
+The main goal of CNC machining is to not crash the machine, which means don't drive the bit deep into the material, bed, parts of the machine, or anything else unintended.  This can harm the machine, and potentially someone standing near by casting material or marchine parts around the area at velocity.
+
+You need a way to create G-code for the machine. When you create this G-code, it must not have instructions that crash the machine.  Ideally it will have instructions which create a useful part, but that's not really the main goal.   That's just a side-benefit of not crashing the machine.
+
+You can use an 
