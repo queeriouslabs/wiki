@@ -18,11 +18,14 @@ Using the python program bCNC, I was able to home the device and move each stepp
 
 ## Power
 There are two power supplies, one for the controller and the XYZ motion steppers, and a separate supply for the spindle.
+
 ### 24V power Brick for XYZ
 The XYZ power supply is a a 24V 5A brick and the USB A - USB B mini cable ought to be cable-manged with it.
 
 ![Showing Power Socket On Controller Annotated](/uploads/genmitsu/showing-power-socket-on-controller-annotated.png "Showing Power Socket On Controller Annotated")
 
+### Spinle Power supply
+The power supply for the spindle Is separate and is controlled via a potentiometer.
 
 ## The power button 
 ![Controller](/uploads/genmitsu/controller.png "Controller")
