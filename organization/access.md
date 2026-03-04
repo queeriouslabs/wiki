@@ -46,6 +46,7 @@ This document lists the various systems / things that have limited access, and w
 * Step
 * Jonas
 * Dirk
+* Lily
 
 # IT / Systems / Infrastructure
 Email <sysadmins@queeriouslabs.com> with any questions etc...
