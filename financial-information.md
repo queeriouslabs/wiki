@@ -128,6 +128,18 @@ NOTE: Much of corporate donation matching comes through Paypal.
 	* Insurance: $252.00
 	* Compliance / filing fees: $50
 
+### 2025 Financial Flows
+
+* Income (Patreon, Paypal, etc.): $53703.26
+* Expenses: $38021.37
+	* Rent: $32500.00
+	* Internet: $900.00
+	* Web Infrastructure: $394.45
+	* Utilities (PG&E): $1759.92
+	* Insurance: $507.00
+	* Compliance / filing fees: $25
+	* Maintenance (Broken Window): $1935.00
+
 ## Bank Account
 We have a bank account at First Republic. Contact `treasurer@` if account info is needed.
 
