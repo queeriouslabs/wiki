@@ -43,12 +43,16 @@ Note that if you reinstall any operating system, you will absolutely need to dis
 - HP EliteDesk 800 G1 SFF mainboard
 	- This is a highly non-standard mainboard.  Beyond a bunch of minor things, the hole pattern is not standard for a LGA115X heat sink.
 	- There's a 3d / laser cut acrylic bracket to adapt the non-standard heatsink holes to the more standard socket LGA115X holes
+	- There's a good amount of documentation available (maintenance, manuals, reference manuals)
+	- It's corpo non-sense with more options to lock down machines than manage hardware, whatever, my bad, it was $20.
 
-
-# Drives
+# Peripherals
+## Drives
 Ideally SDD from golb for os and applications
 (eventually) large HDD RAID array w/ replication for media
 
+## Graphics
+- GTX 750 
 # Environment
 - Debian stable
 - Xorg
@@ -59,6 +63,8 @@ I tried wayland + KDE/plasma and it didn't work well with the projector on boot.
 # Applications
 - Deskflow
 	- like a remote kvm, compatible with inputLeap and Barrier
+- Firefox
+	- Well this is installed by default, but I added uBlock origin.
 
 # Quirks
 - On install, the audio was going out through the buzzer speaker on the front panel.  Hilarious.  I installed `pipewire-pulse` and `pavucontrol` and used `pavucontrol` to switch the audio sink to the HDMI port, which flows through the projector to the speakers.  This survived a reboot.
