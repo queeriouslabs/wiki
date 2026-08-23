@@ -4,6 +4,10 @@
 # ShiYang
 Shiyang is a 8ish core media server sitting somewhere on the wall in the middle room.  The goal is to put some media front end like kodi on it to easier play media on the projector, along with whatever other things people want to do.  There is nothing precsious about this machine other than it ought to stay functional.
 
+## Credentials
+The root password is the wifi pasword. 
+
+
 ## History
 
 A motherboard (which is now dead), CPU (Intel I7-4770k) and memory (32GB of DDR3) was left floating around QL for a while.  I (Matt) found it, and coaxed it from not working to working (after frying the bios of the dead motherboard and having to buy a new one).
