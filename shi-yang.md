@@ -52,7 +52,8 @@ Ideally SDD from golb for os and applications
 (eventually) large HDD RAID array w/ replication for media
 
 ## Graphics
-- GTX 750 
+- GTX 750
+	- Proprietary nvidia drivers are required
 # Environment
 - Debian stable
 - Xorg
