@@ -18,7 +18,9 @@ GRUB_CMDLINE_LINUX_DEFAULT=""
 GRUB_CMDLINE_LINUX="maxcpus=1"
 ```
 Then run 
-`# update-grub`
+```
+# update-grub
+```
 
 There's a script in `/opt/bin/pokecpus` which boots CPUs 1-2,4-7.  CPU 3 is bad. 
 There's a systemd unit file at `/etc/systemd/system/cpu_poke.service`
