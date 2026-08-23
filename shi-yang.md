@@ -9,7 +9,7 @@ This is a janky machine.  The CPU has a bad core.  Luckily it has 8, so 7 are us
 
 ## Dealing with the bad CPU core
 in `/etc/default/grub` the linux command line now has `maxcpus=1` which limits the system to boot with 1 CPU.  The rest can be booted as runtime via sysfs.
-There's a script in `/opt/bin` which boots CPUs 1-2,4-7.  CPU 3 is bad. 
+There's a script in `/opt/bin/pokecpus` which boots CPUs 1-2,4-7.  CPU 3 is bad. 
 There's a systemd unit file at `/etc/systemd/system/cpu_poke.service`
 This runs at boot to bring up the good CPUs.
 
