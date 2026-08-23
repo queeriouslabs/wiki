@@ -58,7 +58,7 @@ Ideally SDD from golb for os and applications
 - Xorg
 - Gnome
 
-I tried wayland + KDE/plasma and it didn't work well with the projector on boot.  It was super irritating and I got tired of one again dealing with (wayland || KDE) not working, where-as Xorg + Gnome "just works".   I also would like to expierment with having different window systems, DEs, WMs, etc to work to let them live nicely on the same machine would be interesting!  My choices are wholly practical:  This setup worked.  
+I tried wayland + KDE/plasma and it didn't work well with the projector on boot.  It was super irritating, and I got tired of once again dealing with (wayland || KDE) not working, where-as Xorg + Gnome "just works".   I would like to expierment with having different window systems, DEs, WMs, etc to work to let them live nicely on the same machine would be interesting!  My choices are wholly practical:  This setup worked.  
 
 # Applications
 - Deskflow
