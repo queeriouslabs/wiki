@@ -18,6 +18,7 @@ Note that if you reinstall any operating system, you will absolutely need to dis
 ## Core Hardware
 Intel I7-4770k Haswell
 HP EliteDesk 800 G1 SFF mainboard
+- This is a highly non-standard mainboard.  There's a 3d / laser cut acrylic bracket to adapt the non-standard heatsink holes to the more standard socket LGA115X holes
 32 GB DDR3
 
 ## Drives
