@@ -13,7 +13,7 @@ There's a script in `/opt/bin` which boots CPUs 1-2,4-7.  CPU 3 is bad.
 There's a systemd unit file at `/etc/systemd/system/cpu_poke.service`
 This runs at boot to bring up the good CPUs.
 
-Note that if you reinstall any operating system, you will absolutely need to disable the bad CPU somehow.  Ideally that's in the bios, but the current bios on the board does not manage that.  If you are installing a linux variant, you will need to edit the cmdline during the bootloader, typically GRUB, and by hitting 'e' to edit the boot commands.   If you don't know how to do this, you are a noob, good luck :^)
+Note that if you reinstall any operating system, you will absolutely need to disable the bad CPU somehow.  Ideally that's in the bios, but the current bios on the board does not manage that.  If you are installing a linux variant, you will need to edit the cmdline during the bootloader, typically GRUB, and by hitting 'e' to edit the boot commands.   If you don't know how to do this, you are a noob, good luck `:^)`
 
 ## Core Hardware
 Intel I7-4770k Haswell
