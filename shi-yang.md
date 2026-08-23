@@ -59,5 +59,7 @@ I tried wayland + KDE/plasma and it didn't work well with the projector on boot.
 ## Applications
 - Deskflow
 	- like a remote kvm, compatible with inputLeap and Barrier
-	
+
+## Quirks
+- On install, the audio was going out through the buzzer speaker on the front panel.  Hilarious.  I installed `pipewire-pulse` and `pavucontrol` and used `pavucontrol` to switch the audio sink to the HDMI port, which flows through the projector to the speakers.  This survived a reboot.
 
