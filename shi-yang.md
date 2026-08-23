@@ -37,7 +37,7 @@ There's a systemd unit file at `/etc/systemd/system/cpu_poke.service` which runs
 
 Note that if you reinstall any operating system, you will absolutely need to disable the bad CPU somehow.  Ideally that's in the bios, but the current bios on the board does not manage that.  If you are installing a linux variant, you will need to edit the cmdline during the bootloader stage of booting, typically GRUB, and by hitting 'e' to edit the boot commands.   If you don't know how to do this, you are a noob, good luck `:^)`
 
-## Core Hardware
+# Core Hardware
 - Intel I7-4770k Haswell
 - 32 GB DDR3
 - HP EliteDesk 800 G1 SFF mainboard
@@ -45,21 +45,21 @@ Note that if you reinstall any operating system, you will absolutely need to dis
 	- There's a 3d / laser cut acrylic bracket to adapt the non-standard heatsink holes to the more standard socket LGA115X holes
 
 
-## Drives
+# Drives
 Ideally SDD from golb for os and applications
 (eventually) large HDD RAID array w/ replication for media
 
-## Environment
+# Environment
 - Debian stable
 - Xorg
 - Gnome
 
 I tried wayland + KDE/plasma and it didn't work well with the projector on boot.  It was super irritating and I got tired of one again dealing with (wayland || KDE) not working, where-as Xorg + Gnome "just works".   I also would like to expierment with having different window systems, DEs, WMs, etc to work to let them live nicely on the same machine would be interesting!  My choices are wholly practical:  This setup worked.  
 
-## Applications
+# Applications
 - Deskflow
 	- like a remote kvm, compatible with inputLeap and Barrier
 
-## Quirks
+# Quirks
 - On install, the audio was going out through the buzzer speaker on the front panel.  Hilarious.  I installed `pipewire-pulse` and `pavucontrol` and used `pavucontrol` to switch the audio sink to the HDMI port, which flows through the projector to the speakers.  This survived a reboot.
 
