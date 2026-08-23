@@ -29,11 +29,11 @@ Then run
 # update-grub
 ```
 
-Now at boot, only cpu0 is up.
+Now at boot, only cpu0 is up.  Booting is slower than it could be, and bumping to `maxcpus=2` might work, but it's not possible to limit the cpus beyond this on the boot command line, thus I cannot avoid the bad core.
 
 The script `/opt/bin/pokecpus`  boots CPUs 1-2,4-7.  CPU 3 is bad. 
 
-There's a systemd unit file at `/etc/systemd/system/cpu_poke.service` which runs at boot to bring up the good CPUs via that `pokecpus` script.  By the time the `multi-user.target` is up, the cpus will be up as well.  Boot is slower than it could be, and bumping `maxcpus=2` might work, but it's not possible to limit the cpus beyond this on the command line, thus I cannot avoid the bad core.
+There's a systemd unit file at `/etc/systemd/system/cpu_poke.service` which runs at boot to bring up the good CPUs via that `pokecpus` script.  By the time the `multi-user.target` is up, the cpus will be up as well.  
 
 Note that if you reinstall any operating system, you will absolutely need to disable the bad CPU somehow.  Ideally that's in the bios, but the current bios on the board does not manage that.  If you are installing a linux variant, you will need to edit the cmdline during the bootloader stage of booting, typically GRUB, and by hitting 'e' to edit the boot commands.   If you don't know how to do this, you are a noob, good luck `:^)`
 
