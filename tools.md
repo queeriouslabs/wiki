@@ -30,26 +30,6 @@ Printer does not accept most SD cards; 2GB SDSC cards were acquired in the hopes
 ### Status as of 2023-04-29
 Printer is leveled and prints successfully.
 
-## Anycubic Kossel Delta Printer
-### Status as of 2023-8-17
-Work In Progress -- Use With Caution
-
-Note:
-The base firmware does not properly use stored z-calibration values after a reboot.
-
-The machine now runs Marlin.  Z-calibration seems quite good, but other tuning steps are needed, as the filament is stringing.
-- [Done] ~~PID: https://www.lpomykal.cz/kossel-pid-calibration/ ~~
-- [Done] ~~Extruder: https://www.lpomykal.cz/anycubic-kossel-marlin-extruder-calibration/~~
-- Flow:  https://www.lpomykal.cz/anycubic-kossel-marlin-flow-calibration/
-
-There's an issue which occurs at the end of a print.  The machine attempts to home the extruder, but only homes one axis at a time, which doesn't work with a delta configuration.  This causes the firmware to throw an error as the end-stops cannot be reached, and the machine halts and beeps.  It's not the end of the world but it sucks.
-
-The latest Cura includes a machine profile for the Anycubic Kossel Linear Plus
-
-### Marlin Compiled Settings
-baud (for USB): 250000
-version: bugfix-2.1.x
-marlin configuration file: delta/Anycubic/Kossel Linear Plus
 # Book Scanners
 ## Czur Book Scanner
 ### Status as of 2023-04-29
