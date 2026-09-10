@@ -5,7 +5,7 @@
 Shiyang is a 8ish core media server sitting somewhere on the wall in the middle room.  The goal is to put some media front end like kodi on it to easier play media on the projector, along with whatever other things people want to do.  There is nothing precious about this machine other than it ought to stay functional.
 
 ## Expected Default Behavior
-The system should autologin with the user `shiyang`.  This "should" get through the greeter to the desktop.   I think `kodi` will launch automatically.  Adroid and iOS bot have some version of the kodi remote, see below for kodi credentials.
+The system should autologin with the user `shiyang`.  This "should" get through the greeter to the desktop.   I think `kodi` will launch automatically.  Adroid and iOS bot have some version of the kodi remote, use `shiyang` as the user and the wifi password.
 
 ## Remote access
 try `ssh` e.g. `ssh shiyang@shiyang` and enter the wifi password.
