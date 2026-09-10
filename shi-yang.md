@@ -4,6 +4,9 @@
 # ShiYang
 Shiyang is a 8ish core media server sitting somewhere on the wall in the middle room.  The goal is to put some media front end like kodi on it to easier play media on the projector, along with whatever other things people want to do.  There is nothing precious about this machine other than it ought to stay functional.
 
+## Expected Default Behavior
+The system should autologin with the user `shiyang`.  This "should" get through the greeter to the desktop.   I think `kodi` will launch automatically.  Adroid and iOS bot have some version of the kodi remote, see below for kodi credentials.
+
 ## Credentials
 The root password is the wifi pasword. 
 The main account to use is `shiyang` with the wifi password.
@@ -16,7 +19,7 @@ A motherboard (which is now dead), CPU (Intel I7-4770k) and memory (32GB of DDR3
 
 This is a janky machine.  The CPU has a bad core.  Luckily it has 8, so 7 are usable.  How annoying.  This was the most annoying bring-up I've dealt with.
 
-## Dealing with the bad CPU core
+### Dealing with the bad CPU core
 The first issue is booting at all without using the bad core.  This is managed by limiting the cpus on linux command line.
 
 In `/etc/default/grub` the linux command line now has `maxcpus=1` which limits the system to boot with 1 CPU.  The rest of the good CPUs are booted at runtime via a scipt which pokes them in sysfs.
@@ -39,7 +42,7 @@ There's a systemd unit file at `/etc/systemd/system/cpu_poke.service` which runs
 
 Note that if you reinstall any operating system, you will absolutely need to disable the bad CPU somehow.  Ideally that's in the bios, but the current bios on the board does not manage that.  If you are installing a linux variant, you will need to edit the cmdline during the bootloader stage of booting, typically GRUB, and by hitting 'e' to edit the boot commands.   If you don't know how to do this, you are a noob, good luck `:^)`
 
-# Core Hardware
+### Core Hardware
 - Intel I7-4770k Haswell
 - 32 GB DDR3
 - HP EliteDesk 800 G1 SFF mainboard
@@ -48,22 +51,23 @@ Note that if you reinstall any operating system, you will absolutely need to dis
 	- There's a good amount of documentation available (maintenance, manuals, reference manuals)
 	- It's corpo non-sense with more options to lock down machines than manage hardware, whatever, my bad, it was $20.
 
-# Peripherals
-## Drives
+### Peripherals
+#### Drives
 Ideally SDD from golb for os and applications
 (eventually) large HDD RAID array w/ replication for media
 
-## Graphics
+#### Graphics
 - GTX 750
 	- Proprietary nvidia drivers are required
-# Environment
+
+## Environment
 - Debian stable
 - Xorg
 - Gnome
 
 I tried wayland + KDE/plasma and it didn't work well with the projector on boot.  It was super irritating, and I got tired of once again dealing with (wayland || KDE) not working, where-as Xorg + Gnome "just works".   I would like to expierment with having different window systems, DEs, WMs, etc to work to let them live nicely on the same machine would be interesting!  My choices are wholly practical:  This setup worked.  
 
-# Applications
+## Applications
 - Deskflow
 	- like a remote kvm, compatible with inputLeap and Barrier
 - Firefox
