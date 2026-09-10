@@ -61,7 +61,7 @@ Note that if you reinstall any operating system, you will absolutely need to dis
 
 ## Core Hardware
 - Intel I7-4770k Haswell
-- 32 GB DDR3
+- 20 GB DDR3
 - HP EliteDesk 800 G1 SFF mainboard
 	- This is a highly non-standard mainboard.  Beyond a bunch of minor things, the hole pattern is not standard for a LGA115X heat sink.
 	- There's a 3d / laser cut acrylic bracket to adapt the non-standard heatsink holes to the more standard socket LGA115X holes
