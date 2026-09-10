@@ -12,6 +12,8 @@ You "should" be able to use an app to control `kodi`
 
 Adroid and iOS bot have some version of the kodi remote, use `shiyang` as the user and the wifi password when configuring the remote.
 
+You can turn off / suspend the machine from the `kodi` remote, assuming `kodi` is running.
+
 ## Remote access
 try `ssh` e.g. `ssh shiyang@shiyang` and enter the wifi password.
 
