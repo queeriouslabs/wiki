@@ -10,7 +10,7 @@ This "should" get through the greeter to the desktop.
 `kodi` "should" launch automatically.  
 You "should" be able to use an app to control `kodi`
 
-Adroid[https://play.google.com/store/apps/details?id=org.xbmc.kore&hl=en-US&pli=1] and iOS[https://apps.apple.com/us/app/official-kodi-remote/id520480364] both have some version of the kodi remote, use `shiyang` as the user and the wifi password when configuring the remote.
+Adroid (https://play.google.com/store/apps/details?id=org.xbmc.kore&hl=en-US&pli=1) and iOS (https://apps.apple.com/us/app/official-kodi-remote/id520480364) both have some version of the kodi remote, use `shiyang` as the user and the wifi password when configuring the remote.
 
 You can turn off / suspend the machine from the `kodi` remote, assuming `kodi` is running.
 
