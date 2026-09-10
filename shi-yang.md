@@ -70,8 +70,8 @@ Note that if you reinstall any operating system, you will absolutely need to dis
 
 ## Peripherals
 ### Drives
-Ideally SDD from golb for os and applications
-(eventually) large HDD RAID array w/ replication for media
+1 TB drive for the OS + space for fast loading applications (e.g. games)
+(eventually) large HDD RAID array w/ parity or replication for media
 
 ### Graphics
 - GTX 750
