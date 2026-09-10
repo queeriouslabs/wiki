@@ -7,6 +7,16 @@ Shiyang is a 8ish core media server sitting somewhere on the wall in the middle 
 ## Expected Default Behavior
 The system should autologin with the user `shiyang`.  This "should" get through the greeter to the desktop.   I think `kodi` will launch automatically.  Adroid and iOS bot have some version of the kodi remote, see below for kodi credentials.
 
+## Remote access
+try `ssh` e.g. `ssh shiyang@shiyang` and enter the wifi password.
+
+If `ssh` works, you can launch `x11vnc` on `shiyang`.   Then you need a vncviewer application on your machine, which you use to connect to `shiyang` and control the desktop.
+`deskflow` is a very simple remote Keyboard/Mouse, but is sort of locked to one server (the client application is the controlled machine, i.e. `shiyang`, and the server is the controlling machine, i.e. my laptop).  Getting this multi-user would be nice, might just be a matter of key distribution, but I don't know.
+
+If `ssh` does not work, you can try comnecting a mouse and keyboard.  
+
+This is all getting worked out, still.  `rdp` will probably be implemented at some point.
+
 ## Credentials
 The root password is the wifi pasword. 
 The main account to use is `shiyang` with the wifi password.
