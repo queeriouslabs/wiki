@@ -6,6 +6,8 @@ Shiyang is a 8ish core media server sitting somewhere on the wall in the middle 
 
 ## Credentials
 The root password is the wifi pasword. 
+The main account to use is `shiyang` with the wifi password.
+You can `ssh` into that account with that password.  That account has sudo, with which you can do whatever.
 
 
 ## History
