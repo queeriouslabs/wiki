@@ -5,6 +5,7 @@
 Shiyang is a 8ish core media server sitting somewhere on the wall in the middle room.  The goal is to put some media front end like kodi on it to easier play media on the projector, along with whatever other things people want to do.  There is nothing precious about this machine other than it ought to stay functional.
 
 ## Expected Default Behavior
+`shiyang` is connected to Input 2 on the projector, called "game".
 The system "should" autologin with the user `shiyang`.  
 This "should" get through the greeter to the desktop.   
 `kodi` "should" launch automatically.  
