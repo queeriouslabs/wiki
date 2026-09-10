@@ -1,6 +1,10 @@
 <!-- TITLE: GOLB (machine) -->
 <!-- SUBTITLE: A Raspberry Pi stuck to the wall at QL -->
 
+# GOLB has been absorbed into Shi Yang
+It was consensual.
+
+The absorbtion is not complete, but I will ensure it is completed and all below functionality ~~migrated~~ appropriately absorbed.
 # GOLB
 GOLB is a Raspberry Pi 3B running Debian Bookworm which is in the main room on the wall with the mixers and cables. It has a fileshare accessible via HTTP or Samba; drop whatever files you feel like. It also runs Home Assistant.
 
