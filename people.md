@@ -6,3 +6,4 @@ Feel free to create a small page about yourself if you like, with bio, projects 
 
 * [Sam](/people/sam)
 * [beka](/people/beka)
+* [astrid](/people/astrid)
