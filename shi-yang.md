@@ -25,6 +25,10 @@ If `ssh` does not work, you can try comnecting a mouse and keyboard.
 
 This is all getting worked out, still.  `rdp` will probably be implemented at some point.
 
+## local Web interface
+
+http://shiyang.queer:8080 with the credentials `shiyang` and the wifi password.
+
 ## Credentials
 The root password is the wifi pasword. 
 The main account to use is `shiyang` with the wifi password.
