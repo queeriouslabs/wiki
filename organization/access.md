@@ -31,7 +31,7 @@ This document lists the various systems / things that have limited access, and w
 * Kat
 * Joe
 * Banasidhe
-* Skye
+* [Skye](/people/skye)
 * Alex
 
 ## Gate key
