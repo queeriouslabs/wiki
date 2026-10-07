@@ -10,6 +10,7 @@ The system "should" autologin with the user `shiyang`.
 This "should" get through the greeter to the desktop.   
 `kodi` "should" launch automatically.  
 You "should" be able to use an app to control `kodi`
+You "should" be able to use the web interface at http://shiyang.queer:8080.  Note that if the router/dns is acting up, reset the router or use the ip address http://10.0.1.1098080 at the time of this writing.
 
 Adroid (https://play.google.com/store/apps/details?id=org.xbmc.kore&hl=en-US&pli=1) and iOS (https://apps.apple.com/us/app/official-kodi-remote/id520480364) both have some version of the kodi remote, use `shiyang` as the user and the wifi password when configuring the remote.
 
