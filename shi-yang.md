@@ -25,15 +25,19 @@ If `ssh` does not work, you can try comnecting a mouse and keyboard.
 
 This is all getting worked out, still.  `rdp` will probably be implemented at some point.
 
-## local Web interface
+### kodi Web interface
 
-http://shiyang.queer:8080 with the credentials `shiyang` and the wifi password.
+http://shiyang.queer:8080 with the credentials `shiyang` and the wifi password.  `kodi` must be running of course.
 
 ## Credentials
 The root password is the wifi pasword. 
 The main account to use is `shiyang` with the wifi password.
 You can `ssh` into that account with that password.  That account has sudo, with which you can do whatever.
 
+
+# Resources
+`/srv/planet` is 4tb of mirrored drives (2 vdevs of 2 2TB drives).
+`/srv/scratch` is a 4tb platter drive that's pretty old.  If/when this drive fails, it's gone.  
 
 # History
 
