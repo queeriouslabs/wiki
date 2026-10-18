@@ -30,6 +30,15 @@ Printer does not accept most SD cards; 2GB SDSC cards were acquired in the hopes
 ### Status as of 2023-04-29
 Printer is leveled and prints successfully.
 
+# 3D Scanners
+
+## 3DMakerPro Seal 3D Scanner
+
+For more information, see [wiki page](./tools/3d-scanner-seal).
+
+### Status as of 2026-10-18
+Works! 
+
 # Book Scanners
 ## Czur Book Scanner
 ### Status as of 2023-04-29
